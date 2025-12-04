@@ -124,15 +124,13 @@ def main():
 
         # Fix region names for Expressway road type
         if is_expressway:
-            match(region_name):
-                case "National Capital Region":
-                    region_name = "NCR"
-                case "Cordillera Administrative Region":
-                    region_name = "CAR"
-                case "Negros Island Region":
-                    region_name = "NIR"
-                case "Region VII":
-                    region_name = "RVII" # seriously dpwh
+            region_map = {
+                "National Capital Region": "NCR",
+                "Cordillera Administrative Region": "CAR",
+                "Negros Island Region": "NIR",
+                "Region VII": "RVII" # seriously dpwh
+            }
+            region_name = region_map.get(region_name, region_name)
 
         # Max number of entries
         max_count = get_int_input("Enter the maximum number of roads (or -1 for no limit): ")
