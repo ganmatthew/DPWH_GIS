@@ -1,0 +1,379 @@
+region,road_class,xpres_way,xpres_name,road_length
+NCR,Elevated Expressway,NLEX Harbor Link (Segment 10),NLEX-Harbor Link (NB),3414.1246819265248
+NCR,Elevated Expressway,NLEX Harbor Link (Segment 10),NLEX-Harbor Link (NB),4726.361581500281
+NCR,Elevated Expressway,NLEX Harbor Link (Segment 10),NLEX-Harbor Link (NB),942.6826776172434
+NCR,Elevated Expressway,NLEX Harbor Link (Segment 10),NLEX-Harbor Link (SB),3418.585819892469
+NCR,Elevated Expressway,NLEX Harbor Link (Segment 10),NLEX-Harbor Link (SB),4751.7127610950865
+NCR,Elevated Expressway,NLEX Harbor Link (Segment 10),NLEX-Harbor Link (SB),863.9844106109732
+NCR,Expressway,C5 South Link Expressway (EB),CAVITEX-C-5 South Link Expressway (EB),3679.4264433100107
+NCR,Expressway,C5 South Link Expressway (EB),CAVITEX-C-5 South Link Expressway (EB),269.6253062819573
+NCR,Expressway,C5 South Link Expressway (WB),CAVITEX-C-5 South Link Expressway (EB),4287.007431304463
+NCR,Expressway,C5 South Link Expressway (WB),CAVITEX-C-5 South Link Expressway (WB),7629.9387292330475
+NCR,Expressway,CAVITEX,CAVITEX-Parañaque (NB),5460.1303757548285
+NCR,Expressway,CAVITEX,CAVITEX-Parañaque (NB),186.1549379394176
+NCR,Expressway,CAVITEX,CAVITEX-Parañaque (SB),5445.8111196879645
+NCR,Expressway,MCEX,Muntinlupa-Cavite-Expressway (WB),786.8848591941863
+NCR,Expressway,MCX,Muntinlupa-Cavite-Expressway (EB),2980.586591928591
+NCR,Expressway,MCX,Muntinlupa-Cavite-Expressway (NB),472.5334157881347
+NCR,Expressway,MCX,Muntinlupa-Cavite-Expressway (SB),514.3604155422322
+NCR,Expressway,MCX,Muntinlupa-Cavite-Expressway (SB),293.78969573921773
+NCR,Expressway,MCX,Muntinlupa-Cavite-Expressway (SB),475.7426901771019
+NCR,Expressway,MCX,Muntinlupa-Cavite-Expressway (WB),2997.4392711631244
+NCR,Expressway,NAIAX,NAIA  Expressway (EB),5363.241939996029
+NCR,Expressway,NAIAX,NAIA Expressway (EB),531.8515505865338
+NCR,Expressway,NAIAX,NAIA Expressway (EB),378.55078901197976
+NCR,Expressway,NAIAX,NAIA Expressway (EB),547.5873699247772
+NCR,Expressway,NAIAX,NAIA Expressway (NB) Ph-1,805.4373570297702
+NCR,Expressway,NAIAX,NAIA Expressway (SB) Ph-1,384.3485074043084
+NCR,Expressway,NAIAX,NAIA Expressway (SE),419.6651854818289
+NCR,Expressway,NAIAX,NAIA Expressway (WB),1419.934013024736
+NCR,Expressway,NAIAX,NAIA Expressway (WB),346.7708511077787
+NCR,Expressway,NAIAX,NAIA Expressway (WB),5346.882314345028
+NCR,Expressway,NAIAX,NAIA Expressway (WB) Ph-1,495.7925008522826
+NCR,Expressway,NAIAX,NAIA Expressway (WB) Ph-1,390.9467871717862
+NCR,Expressway,NAIAX,NAIA Expressway (WB) Ph-1,237.39929846050538
+NCR,Expressway,NAIAX,NAIA Expressway (WB) Ph-1,206.79594430585996
+NCR,Expressway,NAIAX,NAIA Expressway (WB) Ph-1,687.9342893552052
+NCR,Expressway,NAIAX,NAIA Expressway (WB) Ph-1,438.96177566777095
+NCR,Expressway,NAIAX,NAIA Expressway (WB) Ph-1,378.3411069686359
+NCR,Expressway,NAIAX,NAIA Terminal 1Rd,1047.2893414096882
+NCR,Expressway,NAIAX,NAIA Terminal 2 Rd,400.94621553764716
+NCR,Expressway,NAIAX,NAIA Terminal 3 Rd,478.09419614859314
+NCR,Expressway,NLEX,Noth Luzon Expressway (NB),498.396077351438
+NCR,Expressway,NLEX,Noth Luzon Expressway (NB),634.4590248075936
+NCR,Expressway,NLEX,Noth Luzon Expressway (NB),423.9820669963513
+NCR,Expressway,NLEX,Noth Luzon Expressway (NB),8561.26110203193
+NCR,Expressway,NLEX,Noth Luzon Expressway (SB),459.3055341405585
+NCR,Expressway,NLEX Harbor Link (Segment 8.1),NLEX-Mindanao Ave Link (EB),2398.741401117186
+NCR,Expressway,NLEX Harbor Link (Segment 8.1),NLEX-Mindanao Ave Link (EB),565.1315320874886
+NCR,Expressway,NLEX Harbor Link (Segment 8.1),NLEX-Mindanao Ave Link (EB),522.6907232548483
+NCR,Expressway,NLEX Harbor Link (Segment 8.1),NLEX-Mindanao Ave Link (EB),321.1126101687811
+NCR,Expressway,NLEX Harbor Link (Segment 8.1),NLEX-Mindanao Ave Link (EB),273.41343264285626
+NCR,Expressway,NLEX Harbor Link (Segment 8.1),NLEX-Mindanao Ave Link (EB),270.2606092771609
+NCR,Expressway,NLEX Harbor Link (Segment 8.1),NLEX-Mindanao Ave Link (EB),2388.506006573817
+NCR,Expressway,NLEX Harbor Link (Segment 8.1),NLEX-Mindanao Ave Link (EB),529.9902776657073
+NCR,Expressway,NLEX Harbor Link (Segment 8.1),NLEX-Mindanao Ave Link (EB),594.3301331876477
+NCR,Expressway,NLEX Harbor Link (Segment 8.1),NLEX-Mindanao Ave Link (NB),298.59639543911953
+NCR,Expressway,NLEX Harbor Link (Segment 9),NLEX-McArthur Highway Link (EB),3143.9438899541783
+NCR,Expressway,NLEX Harbor Link (Segment 9),NLEX-McArthur Highway Link (EB),1300.365424172876
+NCR,Expressway,NLEX Harbor Link (Segment 9),NLEX-McArthur Highway Link (SB),733.4960231560669
+NCR,Expressway,NLEX Harbor Link (Segment 9),NLEX-McArthur Highway Link (WB),3161.2553192347777
+NCR,Expressway,NLEX Harbor Link (Segment 9),NLEX-McArthur Highway Link (WB),634.4542084697738
+NCR,Expressway,NLEX Harbor Link (Segment 9),NLEX-McArthur Highway Link (WB),299.5861629581233
+NCR,Expressway,NLEX Harbor Link (Segment 9),NLEX-McArthur Highway Link (WB),226.33271105880073
+NCR,Expressway,NLEX Harbor Link (Segment 9),NLEX-McArthur Highway Link (WB),191.9928776960726
+NCR,Expressway,NLEX Harbor Link (Segment 9),NLEX-McArthur Highway Link (WB),100.81399218060545
+NCR,Expressway,NLEX Harbor Link (Segment 9),NLEX-McArthur Highway Link (WB),122.66920143609747
+NCR,Expressway,NLEX Harbor Link (Segment 9),NLEX-McArthur Highway Link (WB),1687.9562332483458
+NCR,Expressway,North Luzon Expressway,Noth Luzon Expressway (NB),8567.274961640878
+NCR,Expressway,SLEX,South Luzon Expressway (NB),2631.1636255805092
+NCR,Expressway,SLEX,South Luzon Expressway (NB),427.89312333945963
+NCR,Expressway,SLEX,South Luzon Expressway (NB),337.6583383132303
+NCR,Expressway,SLEX,South Luzon Expressway (NB),1105.6006901711921
+NCR,Expressway,SLEX,South Luzon Expressway (NB),17466.73748098758
+NCR,Expressway,SLEX,South Luzon Expressway (NB),860.5214342902938
+NCR,Expressway,SLEX,South Luzon Expressway (NB),499.2190391863927
+NCR,Expressway,SLEX,South Luzon Expressway (NB),574.2869827728181
+NCR,Expressway,SLEX,South Luzon Expressway (NB),808.7851159780631
+NCR,Expressway,SLEX,South Luzon Expressway (NB),721.8732012138577
+NCR,Expressway,SLEX,South Luzon Expressway (NB),417.4708463233752
+NCR,Expressway,SLEX,South Luzon Expressway (SB),1250.429843920369
+NCR,Expressway,SLEX,South Luzon Expressway (SB),19397.19412175715
+NCR,Expressway,SLEX,South Luzon Expressway (SB),586.2737421591219
+NCR,Expressway,SLEX,South Luzon Expressway (SB),436.95409506122206
+NCR,Expressway,SLEX,South Luzon Expressway (SB),525.8419505914471
+NCR,Expressway,SLEX,South Luzon Expressway (WB),1027.8026152464947
+NCR,Expressway,SLEX,South Metro Manila Skyway (SB) Extension,463.1698760676705
+NCR,Skyway,MMS-Stage 3,Metro Manila Skyway (NB),15888.926806415846
+NCR,Skyway,MMS-Stage 3,Metro Manila Skyway (NB),479.6451228834905
+NCR,Skyway,MMS-Stage 3,Metro Manila Skyway (NB),238.94937709684012
+NCR,Skyway,MMS-Stage 3,Metro Manila Skyway (NB),807.6293594775824
+NCR,Skyway,MMS-Stage 3,Metro Manila Skyway (SB),15262.110068949214
+NCR,Skyway,MMS-Stage 3,Metro Manila Skyway (SB),2138.597024414277
+NCR,Skyway,MMS-Stage 3,Metro Manila Skyway (SB),711.5247328648187
+NCR,Skyway,MMS-Stage 3,Metro Manila Skyway (SB),723.0976383927805
+NCR,Skyway,MMS-Stage 3,Metro Manila Skyway (SB),177.5942394450845
+NCR,Skyway,MMS-Stage 3,Metro Manila Skyway (SB),431.57069306746587
+NCR,Skyway,NLEX-SLEX Connector,NLEX-SLEX Connector (NB),8788.053349121697
+NCR,Skyway,NLEX-SLEX Connector,NLEX-SLEX Connector (NB),1162.771934620996
+NCR,Skyway,NLEX-SLEX Connector,NLEX-SLEX Connector (SB),8763.38459494399
+NCR,Skyway,SLEX,South Metro Manila Skyway (NB) Extension,4563.394220536973
+NCR,Skyway,SLEX,South Metro Manila Skyway (SB) Extension,4512.851091697811
+NCR,Skyway,SMMS,South Metro Manila Skyway (NB),16607.633414300493
+NCR,Skyway,SMMS,South Metro Manila Skyway (NB),1067.3580051862386
+NCR,Skyway,SMMS,South Metro Manila Skyway (NB),1413.7296138199997
+NCR,Skyway,SMMS,South Metro Manila Skyway (NB),867.855680431045
+NCR,Skyway,SMMS,South Metro Manila Skyway (SB),16299.330694660115
+NCR,Skyway,SMMS,South Metro Manila Skyway (SB),837.189731108094
+NCR,Skyway,SMMS,South Metro Manila Skyway (SB),931.5561961874639
+NCR,Skyway,SMMS,South Metro Manila Skyway (SB),769.3736587153719
+RVII,Expressway,CCLEX,Cebu Cordova Link Expressway,8273.422500217337
+Region I,Expressway,TPLEX,TPLEX-Anao (NB),5786.329950955797
+Region I,Expressway,TPLEX,TPLEX-Binalonan (NB),5495.2344548695055
+Region I,Expressway,TPLEX,TPLEX-Binalonan (SB),5497.1173576970095
+Region I,Expressway,TPLEX,TPLEX-Binalonan exit (NB),912.4693728305886
+Region I,Expressway,TPLEX,TPLEX-Binalonan exit (NB),235.98436307434545
+Region I,Expressway,TPLEX,TPLEX-Binalonan exit (SB),1061.2675523805879
+Region I,Expressway,TPLEX,TPLEX-Binalonan exit (SB),632.318823647489
+Region I,Expressway,TPLEX,TPLEX-Pozorubio (NB),258.1566508898106
+Region I,Expressway,TPLEX,TPLEX-Pozorubio (SB),9879.518449011426
+Region I,Expressway,TPLEX,TPLEX-Pozorubio (SB),602.3270355680204
+Region I,Expressway,TPLEX,TPLEX-Pozorubio (SB),1173.3161901715007
+Region I,Expressway,TPLEX,TPLEX-Pozorubio exit (NB),926.5297009762573
+Region I,Expressway,TPLEX,TPLEX-Pozorubio(NB),9883.02433743201
+Region I,Expressway,TPLEX,"TPLEX-Pura, Tarlac (NB)",8004.866275205468
+Region I,Expressway,TPLEX,TPLEX-Rosales (NB),18617.938935253016
+Region I,Expressway,TPLEX,TPLEX-Rosales (NB),2071.1606422552227
+Region I,Expressway,TPLEX,TPLEX-Rosales exit (NB),657.5548250277586
+Region I,Expressway,TPLEX,TPLEX-Rosales exit (NB),521.3984814861169
+Region I,Expressway,TPLEX,TPLEX-Rosales exit (SB),809.9896849227533
+Region I,Expressway,TPLEX,TPLEX-Rosales exit (SB),671.0791160748081
+Region I,Expressway,TPLEX,TPLEX-Rosario (NB),5725.055426845111
+Region I,Expressway,TPLEX,TPLEX-Rosario (SB),5755.614647261351
+Region I,Expressway,TPLEX,TPLEX-Sison (NB),6028.919042457404
+Region I,Expressway,TPLEX,TPLEX-Sison (SB),5996.710292256979
+Region I,Expressway,TPLEX,TPLEX-Sison exit (NB),891.504354307483
+Region I,Expressway,TPLEX,TPLEX-Sison exit (NB),210.766961591907
+Region I,Expressway,TPLEX,TPLEX-Sison exit (SB),1163.5970185128215
+Region I,Expressway,TPLEX,TPLEX-Sison exit (SB),589.5367444829708
+Region I,Expressway,TPLEX,TPLEX-Tarlac City (SB),1927.220241425248
+Region I,Expressway,TPLEX,TPLEX-Urdaneta (NB),12834.766623455556
+Region I,Expressway,TPLEX,TPLEX-Urdaneta (SB),12835.542118557029
+Region I,Expressway,TPLEX,TPLEX-Urdaneta exit (NB),526.1224742431014
+Region I,Expressway,TPLEX,TPLEX-Urdaneta exit (NB),1211.2673025854288
+Region I,Expressway,TPLEX,TPLEX-Urdaneta exit (SB),319.7746599786574
+Region I,Expressway,TPLEX,TPLEX-Urdaneta exit (SB),927.9356067025819
+Region I,Expressway,TPLEX,"TPLEX-Victoria, Tarlac (NB)",7077.584287970326
+Region I,Expressway,TPLEX,TPLEXPaniqui (NB),5860.018928836992
+Region III,Expressway,CLLEX,Central Luzon Link Expressway (EB),29640.974104764242
+Region III,Expressway,CLLEX,Central Luzon Link Expressway (NB),933.9614629050571
+Region III,Expressway,CLLEX,Central Luzon Link Expressway (WB),29765.29896505838
+Region III,Expressway,NLEX,Noth Luzon Expressway (EB),4654.976725390547
+Region III,Expressway,NLEX,Noth Luzon Expressway (NB),70923.92012772575
+Region III,Expressway,NLEX,Noth Luzon Expressway (NB),388.4181694814221
+Region III,Expressway,NLEX,Noth Luzon Expressway (NB),187.63460582099535
+Region III,Expressway,NLEX,Noth Luzon Expressway (NB),189.79315201476018
+Region III,Expressway,NLEX,Noth Luzon Expressway (NB),179.50753769517905
+Region III,Expressway,NLEX,Noth Luzon Expressway (NB),292.18814188861654
+Region III,Expressway,NLEX,Noth Luzon Expressway (NB),616.9732677504273
+Region III,Expressway,NLEX,Noth Luzon Expressway (NB),493.59330102315863
+Region III,Expressway,NLEX,Noth Luzon Expressway (NB),287.34274071990376
+Region III,Expressway,NLEX,Noth Luzon Expressway (NB),525.0365328921876
+Region III,Expressway,NLEX,Noth Luzon Expressway (NB),487.96173369280626
+Region III,Expressway,NLEX,Noth Luzon Expressway (NB),237.94187769298858
+Region III,Expressway,NLEX,Noth Luzon Expressway (NB),233.55308713526398
+Region III,Expressway,NLEX,Noth Luzon Expressway (NB),376.7947714094149
+Region III,Expressway,NLEX,Noth Luzon Expressway (NB),332.4110134603909
+Region III,Expressway,NLEX,Noth Luzon Expressway (NB),822.4890322651138
+Region III,Expressway,NLEX,Noth Luzon Expressway (NB),722.5537901622372
+Region III,Expressway,NLEX,Noth Luzon Expressway (NB),495.5177550402155
+Region III,Expressway,NLEX,Noth Luzon Expressway (NB),109.88763536030766
+Region III,Expressway,NLEX,Noth Luzon Expressway (NB),533.0683727524299
+Region III,Expressway,NLEX,Noth Luzon Expressway (NB),47.37171095111542
+Region III,Expressway,NLEX,Noth Luzon Expressway (NB),1142.5671602545715
+Region III,Expressway,NLEX,Noth Luzon Expressway (NB),16.224137613623796
+Region III,Expressway,NLEX,Noth Luzon Expressway (NB),653.4980403589715
+Region III,Expressway,NLEX,Noth Luzon Expressway (NB),19.531006886779952
+Region III,Expressway,NLEX,Noth Luzon Expressway (NB),558.1382862396198
+Region III,Expressway,NLEX,Noth Luzon Expressway (NB),258.6397789655937
+Region III,Expressway,NLEX,Noth Luzon Expressway (NB),828.7441146602432
+Region III,Expressway,NLEX,Noth Luzon Expressway (NB),384.99466870186086
+Region III,Expressway,NLEX,Noth Luzon Expressway (NB),604.5618323227461
+Region III,Expressway,NLEX,Noth Luzon Expressway (NB),568.0242475437309
+Region III,Expressway,NLEX,Noth Luzon Expressway (NB),393.8491321900566
+Region III,Expressway,NLEX,Noth Luzon Expressway (NB),771.5601653686862
+Region III,Expressway,NLEX,Noth Luzon Expressway (NB),506.73544879281803
+Region III,Expressway,NLEX,Noth Luzon Expressway (NB),781.010269973353
+Region III,Expressway,NLEX,Noth Luzon Expressway (NB),269.78187883138247
+Region III,Expressway,NLEX,Noth Luzon Expressway (NB),292.0360329177516
+Region III,Expressway,NLEX,Noth Luzon Expressway (NB),762.6835603112046
+Region III,Expressway,NLEX,Noth Luzon Expressway (NB),697.2459639513069
+Region III,Expressway,NLEX,Noth Luzon Expressway (NB),29.116330014858995
+Region III,Expressway,NLEX,Noth Luzon Expressway (NB),1467.8309127043522
+Region III,Expressway,NLEX,Noth Luzon Expressway (NB),53.45080698111125
+Region III,Expressway,NLEX,Noth Luzon Expressway (NB),27.91902257088873
+Region III,Expressway,NLEX,Noth Luzon Expressway (NB),35.074305709732165
+Region III,Expressway,NLEX,Noth Luzon Expressway (NB),239.02588304986037
+Region III,Expressway,NLEX,Noth Luzon Expressway (SB),70797.67070771425
+Region III,Expressway,NLEX,Noth Luzon Expressway (SB),1377.5637746897498
+Region III,Expressway,NLEX,Noth Luzon Expressway (SB),61.10268660157567
+Region III,Expressway,NLEX,Noth Luzon Expressway (SB),782.9865629951712
+Region III,Expressway,NLEX,Noth Luzon Expressway (SB),1694.6973808790706
+Region III,Expressway,NLEX,Noth Luzon Expressway (SB),603.3414905369114
+Region III,Expressway,NLEX,Noth Luzon Expressway (WB),4710.72016823784
+Region III,Expressway,NLEX-SCTEX Link,NLEX-SCTEX Link (EB),2140.0025864743934
+Region III,Expressway,NLEX-SCTEX Link,NLEX-SCTEX Link (EB),408.2480540995277
+Region III,Expressway,NLEX-SCTEX Link,NLEX-SCTEX Link (EB),1025.2711557587588
+Region III,Expressway,NLEX-SCTEX Link,NLEX-SCTEX Link (EB),468.03425138441446
+Region III,Expressway,NLEX-SCTEX Link,NLEX-SCTEX Link (EB),1559.373611443338
+Region III,Expressway,NLEX-SCTEX Link,NLEX-SCTEX Link (WB),3327.208658533129
+Region III,Expressway,NLEX-SCTEX Link,NLEX-SCTEX Link (WB),856.2756308178361
+Region III,Expressway,NLEX-SCTEX Link,NLEX-SCTEX Link (WB),525.0592928269069
+Region III,Expressway,SCTEX,Subic-Clark-Tarlac Expressway (NB),55878.360041636435
+Region III,Expressway,SCTEX,Subic-Clark-Tarlac Expressway (NB),286.1120944248205
+Region III,Expressway,SCTEX,Subic-Clark-Tarlac Expressway (NB),285.1181810549761
+Region III,Expressway,SCTEX,Subic-Clark-Tarlac Expressway (NB),428.2722837514181
+Region III,Expressway,SCTEX,Subic-Clark-Tarlac Expressway (NB),310.8737317672186
+Region III,Expressway,SCTEX,Subic-Clark-Tarlac Expressway (NB),1488.1376224428504
+Region III,Expressway,SCTEX,Subic-Clark-Tarlac Expressway (NB),1422.266013464853
+Region III,Expressway,SCTEX,Subic-Clark-Tarlac Expressway (NB),329.8697367373641
+Region III,Expressway,SCTEX,Subic-Clark-Tarlac Expressway (NB),318.1904040155563
+Region III,Expressway,SCTEX,Subic-Clark-Tarlac Expressway (NB),1144.876267053007
+Region III,Expressway,SCTEX,Subic-Clark-Tarlac Expressway (NB),1012.2640902665158
+Region III,Expressway,SCTEX,Subic-Clark-Tarlac Expressway (NB),103.29643030188292
+Region III,Expressway,SCTEX,Subic-Clark-Tarlac Expressway (NB),1253.6725770524852
+Region III,Expressway,SCTEX,Subic-Clark-Tarlac Expressway (NB),543.4571399300673
+Region III,Expressway,SCTEX,Subic-Clark-Tarlac Expressway (NB),619.2661003431657
+Region III,Expressway,SCTEX,Subic-Clark-Tarlac Expressway (NB),1414.4142556681716
+Region III,Expressway,SCTEX,Subic-Clark-Tarlac Expressway (NB),1044.7065171829092
+Region III,Expressway,SCTEX,Subic-Clark-Tarlac Expressway (NB),548.1412588067113
+Region III,Expressway,SCTEX,Subic-Clark-Tarlac Expressway (NB),211.41314702375834
+Region III,Expressway,SCTEX,Subic-Clark-Tarlac Expressway (NB),909.777215433077
+Region III,Expressway,SCTEX,Subic-Clark-Tarlac Expressway (NB),246.789264718117
+Region III,Expressway,SCTEX,Subic-Clark-Tarlac Expressway (NB),35501.978107928444
+Region III,Expressway,SCTEX,Subic-Clark-Tarlac Expressway (NB),15.89698456116886
+Region III,Expressway,SCTEX,Subic-Clark-Tarlac Expressway (NB),276.4941347036763
+Region III,Expressway,SCTEX,Subic-Clark-Tarlac Expressway (SB),55752.55499477626
+Region III,Expressway,SCTEX,Subic-Clark-Tarlac Expressway (SB),2538.065955853665
+Region III,Expressway,SCTEX,Subic-Clark-Tarlac Expressway (SB),2592.0660392555096
+Region III,Expressway,SCTEX,Subic-Clark-Tarlac Expressway (SB),970.15089708352
+Region III,Expressway,SCTEX,Subic-Clark-Tarlac Expressway (SB),484.09898529987333
+Region III,Expressway,SCTEX,Subic-Clark-Tarlac Expressway (SB),830.536261590081
+Region III,Expressway,SCTEX,Subic-Clark-Tarlac Expressway (SB),536.1185774051527
+Region III,Expressway,SCTEX,Subic-Clark-Tarlac Expressway (SB),535.0747873651459
+Region III,Expressway,SCTEX,Subic-Clark-Tarlac Expressway (SB),1331.2782581353654
+Region III,Expressway,SCTEX,Subic-Clark-Tarlac Expressway (SB),587.2373741144756
+Region III,Expressway,SCTEX,Subic-Clark-Tarlac Expressway (SB),34438.41754144429
+Region III,Expressway,STipEX,Subic-Tipo Expressway (NB),8803.052341180317
+Region III,Expressway,STipEX,Subic-Tipo Expressway (SB),8827.752903642477
+Region III,Expressway,TPLEX,TPLEX- Tarlac City (SB),1918.3757198297862
+Region III,Expressway,TPLEX,TPLEX-Anao (SB),5798.138780517903
+Region III,Expressway,TPLEX,TPLEX-Anao exit (NB),952.201430409737
+Region III,Expressway,TPLEX,TPLEX-Anao exit (NB),1034.9858674429358
+Region III,Expressway,TPLEX,TPLEX-Anao exit (SB),636.1404471982015
+Region III,Expressway,TPLEX,TPLEX-Anao exit (SB),698.9057570155285
+Region III,Expressway,TPLEX,TPLEX-La Paz (NB),375.55119510320094
+Region III,Expressway,TPLEX,TPLEX-Paniqui (SB),5851.6294958559465
+Region III,Expressway,TPLEX,TPLEX-Paniqui exit (EB),751.6238070632787
+Region III,Expressway,TPLEX,TPLEX-Paniqui exit (EB),588.3104172569504
+Region III,Expressway,TPLEX,TPLEX-Paniqui exit (NB),723.5738506657718
+Region III,Expressway,TPLEX,TPLEX-Paniqui exit (SB),629.3685186277224
+Region III,Expressway,TPLEX,TPLEX-Pra exit (SB),574.7068217950347
+Region III,Expressway,TPLEX,TPLEX-Pura exit (NB),710.243432012553
+Region III,Expressway,TPLEX,TPLEX-Pura exit (NB),823.7336923140283
+Region III,Expressway,TPLEX,TPLEX-Pura exit (SB),574.7305209506889
+Region III,Expressway,TPLEX,"TPLEX-Pura, Tarlac (SB)",8026.908852643966
+Region III,Expressway,TPLEX,TPLEX-Rosales (SB),18640.234446389102
+Region III,Expressway,TPLEX,TPLEX-Rosales (SB),2038.1600633307708
+Region III,Expressway,TPLEX,TPLEX-Tarlac City exit (SB),523.8810722482699
+Region III,Expressway,TPLEX,TPLEX-Tarlac City exit (SB),559.1574965615465
+Region III,Expressway,TPLEX,TPLEX-Tarlac City exit (SB),86.5393925467432
+Region III,Expressway,TPLEX,TPLEX-Tarlac City exit (SB),89.42901552168937
+Region III,Expressway,TPLEX,TPLEX-Victoria exit (NB),1078.667105002881
+Region III,Expressway,TPLEX,TPLEX-Victoria exit (NB),541.6295071815687
+Region III,Expressway,TPLEX,TPLEX-Victoria exit (SB),279.7246308441196
+Region III,Expressway,TPLEX,TPLEX-Victoria exit (SB),770.1408856635554
+Region III,Expressway,TPLEX,"TPLEX-Victoria, Tarlac (SB)",7057.316214562642
+Region IV-A,Expressway,CALAEx,Cavite-Laguna Expressway (EB),4512.935524581019
+Region IV-A,Expressway,CALAEx,Cavite-Laguna Expressway (EB),7221.325699487042
+Region IV-A,Expressway,CALAEx,Cavite-Laguna Expressway (EB),2164.4844464091025
+Region IV-A,Expressway,CALAEx,Cavite-Laguna Expressway (EB),436.76864607873836
+Region IV-A,Expressway,CALAEx,Cavite-Laguna Expressway (EB),372.289296471471
+Region IV-A,Expressway,CALAEx,Cavite-Laguna Expressway (EB),940.7112498809952
+Region IV-A,Expressway,CALAEx,Cavite-Laguna Expressway (EB),982.3008960808843
+Region IV-A,Expressway,CALAEx,Cavite-Laguna Expressway (EB),1292.289703769108
+Region IV-A,Expressway,CALAEx,Cavite-Laguna Expressway (EB),350.0197260159363
+Region IV-A,Expressway,CALAEx,Cavite-Laguna Expressway (EB),330.47620835062895
+Region IV-A,Expressway,CALAEx,Cavite-Laguna Expressway (EB),414.6027609665516
+Region IV-A,Expressway,CALAEx,Cavite-Laguna Expressway (EB),4259.208029895128
+Region IV-A,Expressway,CALAEx,Cavite-Laguna Expressway (WB),7322.853226767395
+Region IV-A,Expressway,CALAEx,Cavite-Laguna Expressway (WB),2040.5929229337657
+Region IV-A,Expressway,CALAEx,Cavite-Laguna Expressway (WB),4623.607127631837
+Region IV-A,Expressway,CALAEx,Cavite-Laguna Expressway (WB),882.0725487453205
+Region IV-A,Expressway,CALAEx,Cavite-Laguna Expressway (WB),437.8072941084473
+Region IV-A,Expressway,CALAEx,Cavite-Laguna Expressway (WB),769.6514771911204
+Region IV-A,Expressway,CALAEx,Cavite-Laguna Expressway (WB),4274.033299997891
+Region IV-A,Expressway,CALAEx,Cavite-Laguna Expressway exit (EB),356.1651175098394
+Region IV-A,Expressway,CAVITEX,CAVITEX-Parañaque (NB),955.8009686133762
+Region IV-A,Expressway,CAVITEX,CAVITEX-Parañaque (NB),785.3305822210297
+Region IV-A,Expressway,CAVITEX,CAVITEX-Parañaque (NB),300.86200744269115
+Region IV-A,Expressway,CAVITEX,CAVITEX-Parañaque (NB),909.5455198718898
+Region IV-A,Expressway,CAVITEX,CAVITEX-Parañaque (NB),48.424721114308184
+Region IV-A,Expressway,CAVITEX,CAVITEX-Parañaque (NB),6815.962972665626
+Region IV-A,Expressway,CAVITEX,CAVITEX-Parañaque (NB),164.0389410735576
+Region IV-A,Expressway,CAVITEX,CAVITEX-Parañaque (NB),153.21262452844425
+Region IV-A,Expressway,CAVITEX,CAVITEX-Parañaque (NB),240.23290805786024
+Region IV-A,Expressway,CAVITEX,CAVITEX-Parañaque (SB),6500.634090355299
+Region IV-A,Expressway,SLEX,South Luzon Expressway (NB),22597.347051290624
+Region IV-A,Expressway,SLEX,South Luzon Expressway (NB),427.21204269056415
+Region IV-A,Expressway,SLEX,South Luzon Expressway (NB),234.8058117439347
+Region IV-A,Expressway,SLEX,South Luzon Expressway (NB),308.6311772826598
+Region IV-A,Expressway,SLEX,South Luzon Expressway (NB),50.51398407163671
+Region IV-A,Expressway,SLEX,South Luzon Expressway (NB),270.3841242564932
+Region IV-A,Expressway,SLEX,South Luzon Expressway (NB),41.35901539615773
+Region IV-A,Expressway,SLEX,South Luzon Expressway (NB),29.397547536921238
+Region IV-A,Expressway,SLEX,South Luzon Expressway (NB),436.6749541783663
+Region IV-A,Expressway,SLEX,South Luzon Expressway (NB),380.7109123170715
+Region IV-A,Expressway,SLEX,South Luzon Expressway (NB),384.56884220722657
+Region IV-A,Expressway,SLEX,South Luzon Expressway (NB),277.1380387828646
+Region IV-A,Expressway,SLEX,South Luzon Expressway (NB),291.0820474223299
+Region IV-A,Expressway,SLEX,South Luzon Expressway (NB),230.61893317893066
+Region IV-A,Expressway,SLEX,South Luzon Expressway (NB),234.50588056942564
+Region IV-A,Expressway,SLEX,South Luzon Expressway (NB),208.28727211042857
+Region IV-A,Expressway,SLEX,South Luzon Expressway (NB),247.5511398033388
+Region IV-A,Expressway,SLEX,South Luzon Expressway (NB),253.81288756203077
+Region IV-A,Expressway,SLEX,South Luzon Expressway (NB),482.2383759846372
+Region IV-A,Expressway,SLEX,South Luzon Expressway (NB),484.39805539760584
+Region IV-A,Expressway,SLEX,South Luzon Expressway (NB),764.2141253089284
+Region IV-A,Expressway,SLEX,South Luzon Expressway (NB),170.5558874518855
+Region IV-A,Expressway,SLEX,South Luzon Expressway (NB),313.82132952984887
+Region IV-A,Expressway,SLEX,South Luzon Expressway (NB),272.1377760267475
+Region IV-A,Expressway,SLEX,South Luzon Expressway (NB),215.66897612499648
+Region IV-A,Expressway,SLEX,South Luzon Expressway (NB),225.55389000391062
+Region IV-A,Expressway,SLEX,South Luzon Expressway (SB),342.5816684861821
+Region IV-A,Expressway,SLEX,South Luzon Expressway (SB),319.81064965702717
+Region IV-A,Expressway,SLEX,South Luzon Expressway (SB),269.0561587660078
+Region IV-A,Expressway,SLEX,South Luzon Expressway (SB),52.368673527823205
+Region IV-A,Expressway,SLEX,South Luzon Expressway (SB),80.58963645519913
+Region IV-A,Expressway,SLEX,South Luzon Expressway (SB),384.30984216713745
+Region IV-A,Expressway,SLEX,South Luzon Expressway (SB),240.3602642725933
+Region IV-A,Expressway,SLEX,South Luzon Expressway (SB),261.39932894008575
+Region IV-A,Expressway,SLEX,South Luzon Expressway (SB),260.0263427418903
+Region IV-A,Expressway,SLEX,South Luzon Expressway (SB),22593.41375423647
+Region IV-A,Expressway,SLEX,South Luzon Expressway (SB),482.4138543147469
+Region IV-A,Expressway,SLEX,South Luzon Expressway (SB),476.1645585034561
+Region IV-A,Expressway,SLEX,South Luzon Expressway (SB),486.93550520071517
+Region IV-A,Expressway,SLEX,South Luzon Expressway (SB),354.3717316506193
+Region IV-A,Expressway,SLEX,South Luzon Expressway (SB),341.14196560691937
+Region IV-A,Expressway,SLEX,South Luzon Expressway (SB),720.5928264655241
+Region IV-A,Expressway,SLEX,South Luzon Expressway (SB),255.82259081037148
+Region IV-A,Expressway,SLEX,South Luzon Expressway (SB),579.9489700946227
+Region IV-A,Expressway,SLEX,South Luzon Expressway (SB),242.5116064228705
+Region IV-A,Expressway,SLEX,South Luzon Expressway (SB),230.7264700899525
+Region IV-A,Expressway,SLEX,South Luzon Expressway (SB),269.9537606445057
+Region IV-A,Expressway,SLEX Extension,SLEX Extension-Calamba (NB),511.92862691364826
+Region IV-A,Expressway,SLEX Extension,SLEX Extension-Calamba (NB),499.2895231541684
+Region IV-A,Expressway,SLEX Extension,SLEX Extension-Calamba (NB),7821.67682633169
+Region IV-A,Expressway,SLEX Extension,SLEX Extension-Calamba (NB),251.50225742862273
+Region IV-A,Expressway,SLEX Extension,SLEX Extension-Calamba (NB),68.30438355136718
+Region IV-A,Expressway,SLEX Extension,SLEX Extension-Calamba (SB),60.84318432041886
+Region IV-A,Expressway,SLEX Extension,SLEX Extension-Calamba (SB),248.84497002815576
+Region IV-A,Expressway,SLEX Extension,SLEX Extension-Calamba (SB),275.043253401474
+Region IV-A,Expressway,SLEX Extension,SLEX Extension-Calamba (SB),249.81354003655036
+Region IV-A,Expressway,SLEX Extension,SLEX Extension-Calamba (SB),7857.437244164204
+Region IV-A,Expressway,SLEX Extension,SLEX Extension-Calamba (SB),587.8042963544289
+Region IV-A,Expressway,STAR,STAR-Sto. Tomas (NB),775.0333207680746
+Region IV-A,Expressway,STAR,STAR-Sto. Tomas (NB),742.4865614188739
+Region IV-A,Expressway,STAR,STAR-Sto. Tomas (NB),458.6988589017952
+Region IV-A,Expressway,STAR,STAR-Sto. Tomas (NB),41691.238583268016
+Region IV-A,Expressway,STAR,STAR-Sto. Tomas (SB),767.842663315069
+Region IV-A,Expressway,STAR,STAR-Sto. Tomas (SB),773.8770508902664
+Region IV-A,Expressway,STAR,STAR-Sto. Tomas (SB),530.3522725642318
+Region IV-A,Expressway,STAR,STAR-Sto. Tomas (SB),538.0380191662408
+Region IV-A,Expressway,STAR,STAR-Sto. Tomas (SB),485.267403018217
+Region IV-A,Expressway,STAR,STAR-Sto. Tomas (SB),442.8553223076927
+Region IV-A,Expressway,STAR,STAR-Sto. Tomas (SB),730.5066277916711
+Region IV-A,Expressway,STAR,STAR-Sto. Tomas (SB),480.1264576530985
+Region IV-A,Expressway,STAR,STAR-Sto. Tomas (SB),41620.9240374495
+Region IV-A,Expressway,STAR,STAR-Sto. Tomas (SB),434.38131648436183
+Region IV-A,Expressway,STAR,STAR-Sto. Tomas (SB),506.2700299123507

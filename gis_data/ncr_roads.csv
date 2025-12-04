@@ -1,0 +1,946 @@
+region,province,deo,cong_district,road_class,road_name,road_length
+National Capital Region,Metro Manila,Las Piñas-Muntinlupa District Engineering Office,CITY OF LAS PIÑAS (LONE DISTRICT),Primary,Quirino Avenue,3298.0
+National Capital Region,Metro Manila,Las Piñas-Muntinlupa District Engineering Office,CITY OF LAS PIÑAS (LONE DISTRICT),Secondary,Zapote-Alabang Flyover,451.0
+National Capital Region,Metro Manila,Las Piñas-Muntinlupa District Engineering Office,CITY OF LAS PIÑAS (LONE DISTRICT),Secondary,Zapote-Alabang Rd,7580.0
+National Capital Region,Metro Manila,Las Piñas-Muntinlupa District Engineering Office,CITY OF LAS PIÑAS (LONE DISTRICT),Tertiary,International Receiver Rd,2114.0
+National Capital Region,Metro Manila,Las Piñas-Muntinlupa District Engineering Office,CITY OF LAS PIÑAS (LONE DISTRICT),Tertiary,Marcos Alvarez  Rd,3378.0
+National Capital Region,Metro Manila,Las Piñas-Muntinlupa District Engineering Office,CITY OF LAS PIÑAS (LONE DISTRICT),Tertiary,Zapote-Alabang Rd,251.0
+National Capital Region,Metro Manila,Las Piñas-Muntinlupa District Engineering Office,CITY OF LAS PIÑAS (LONE DISTRICT),Tertiary,Zapote-Alabang Rd,467.0
+National Capital Region,Metro Manila,Las Piñas-Muntinlupa District Engineering Office,CITY OF MUNTINLUPA (LONE DISTRICT),Primary,Maharlika Highway (LZ),5810.0
+National Capital Region,Metro Manila,Las Piñas-Muntinlupa District Engineering Office,CITY OF MUNTINLUPA (LONE DISTRICT),Primary,Paranaque-Sucat Rd,198.0
+National Capital Region,Metro Manila,Las Piñas-Muntinlupa District Engineering Office,CITY OF MUNTINLUPA (LONE DISTRICT),Secondary,PPTA Rd,5880.0
+National Capital Region,Metro Manila,Las Piñas-Muntinlupa District Engineering Office,CITY OF MUNTINLUPA (LONE DISTRICT),Secondary,PPTA Rd,500.0
+National Capital Region,Metro Manila,Las Piñas-Muntinlupa District Engineering Office,CITY OF MUNTINLUPA (LONE DISTRICT),Secondary,Paranaque-Sucat Rd,880.0
+National Capital Region,Metro Manila,Las Piñas-Muntinlupa District Engineering Office,CITY OF MUNTINLUPA (LONE DISTRICT),Secondary,Zapote-Alabang Rd,2691.0
+National Capital Region,Metro Manila,Las Piñas-Muntinlupa District Engineering Office,CITY OF MUNTINLUPA (LONE DISTRICT),Secondary,Zapote-Alabang Y-Length,258.0
+National Capital Region,Metro Manila,Las Piñas-Muntinlupa District Engineering Office,CITY OF MUNTINLUPA (LONE DISTRICT),Tertiary,Alabang-Muntinlupa Rd,3169.0
+National Capital Region,Metro Manila,Las Piñas-Muntinlupa District Engineering Office,CITY OF MUNTINLUPA (LONE DISTRICT),Tertiary,Daang Maharlika (LZ),233.0
+National Capital Region,Metro Manila,Las Piñas-Muntinlupa District Engineering Office,CITY OF MUNTINLUPA (LONE DISTRICT),Tertiary,Daang Maharlika (LZ),245.0
+National Capital Region,Metro Manila,Las Piñas-Muntinlupa District Engineering Office,CITY OF MUNTINLUPA (LONE DISTRICT),Tertiary,Daang Maharlika (LZ),142.0
+National Capital Region,Metro Manila,Las Piñas-Muntinlupa District Engineering Office,CITY OF MUNTINLUPA (LONE DISTRICT),Tertiary,Muntinlupa-Insular Prison Rd,85.0
+National Capital Region,Metro Manila,Las Piñas-Muntinlupa District Engineering Office,CITY OF MUNTINLUPA (LONE DISTRICT),Tertiary,Muntinlupa-Insular Prison Rd,204.0
+National Capital Region,Metro Manila,Las Piñas-Muntinlupa District Engineering Office,CITY OF MUNTINLUPA (LONE DISTRICT),Tertiary,Muntinlupa-Insular Prison Rd,3486.0
+National Capital Region,Metro Manila,Las Piñas-Muntinlupa District Engineering Office,CITY OF MUNTINLUPA (LONE DISTRICT),Tertiary,Muntinlupa-Railroad Station Rd,1457.0
+National Capital Region,Metro Manila,Las Piñas-Muntinlupa District Engineering Office,CITY OF MUNTINLUPA (LONE DISTRICT),Tertiary,Paranaque-Sucat Rd,152.0
+National Capital Region,Metro Manila,Las Piñas-Muntinlupa District Engineering Office,CITY OF MUNTINLUPA (LONE DISTRICT),Tertiary,South Super H-way East Service Rd,4604.0
+National Capital Region,Metro Manila,Las Piñas-Muntinlupa District Engineering Office,CITY OF MUNTINLUPA (LONE DISTRICT),Tertiary,South Super H-way West Service Rd,3665.0
+National Capital Region,Metro Manila,Malabon-Navotas District Engineering Office,MALABON CITY (LONE DISTRICT),Primary,MacArthur H-way,1041.0
+National Capital Region,Metro Manila,Malabon-Navotas District Engineering Office,MALABON CITY (LONE DISTRICT),Primary,MacArthur H-way,1179.0
+National Capital Region,Metro Manila,Malabon-Navotas District Engineering Office,MALABON CITY (LONE DISTRICT),Secondary,C-4 Road,2118.0
+National Capital Region,Metro Manila,Malabon-Navotas District Engineering Office,MALABON CITY (LONE DISTRICT),Secondary,C-4 Road,1016.0
+National Capital Region,Metro Manila,Malabon-Navotas District Engineering Office,MALABON CITY (LONE DISTRICT),Tertiary,Adante Rd,558.0
+National Capital Region,Metro Manila,Malabon-Navotas District Engineering Office,MALABON CITY (LONE DISTRICT),Tertiary,Bonifacio St,260.0
+National Capital Region,Metro Manila,Malabon-Navotas District Engineering Office,MALABON CITY (LONE DISTRICT),Tertiary,Bonifacio-Sisa Rd,84.0
+National Capital Region,Metro Manila,Malabon-Navotas District Engineering Office,MALABON CITY (LONE DISTRICT),Tertiary,Bonifacio-Sisa Rd,830.0
+National Capital Region,Metro Manila,Malabon-Navotas District Engineering Office,MALABON CITY (LONE DISTRICT),Tertiary,C Arellano St,1765.0
+National Capital Region,Metro Manila,Malabon-Navotas District Engineering Office,MALABON CITY (LONE DISTRICT),Tertiary,Don Basilio Bautista St,213.0
+National Capital Region,Metro Manila,Malabon-Navotas District Engineering Office,MALABON CITY (LONE DISTRICT),Tertiary,Don Basilio Bautista St,627.0
+National Capital Region,Metro Manila,Malabon-Navotas District Engineering Office,MALABON CITY (LONE DISTRICT),Tertiary,Don Basilio Bautista St,693.0
+National Capital Region,Metro Manila,Malabon-Navotas District Engineering Office,MALABON CITY (LONE DISTRICT),Tertiary,E Rodriguez St,344.0
+National Capital Region,Metro Manila,Malabon-Navotas District Engineering Office,MALABON CITY (LONE DISTRICT),Tertiary,Estrella St,482.0
+National Capital Region,Metro Manila,Malabon-Navotas District Engineering Office,MALABON CITY (LONE DISTRICT),Tertiary,Flores St,325.0
+National Capital Region,Metro Manila,Malabon-Navotas District Engineering Office,MALABON CITY (LONE DISTRICT),Tertiary,Gen Luna St  (Malabon),2521.0
+National Capital Region,Metro Manila,Malabon-Navotas District Engineering Office,MALABON CITY (LONE DISTRICT),Tertiary,Gov W Pascual Ave,155.0
+National Capital Region,Metro Manila,Malabon-Navotas District Engineering Office,MALABON CITY (LONE DISTRICT),Tertiary,Gov W Pascual Ave,4400.0
+National Capital Region,Metro Manila,Malabon-Navotas District Engineering Office,MALABON CITY (LONE DISTRICT),Tertiary,Jct Womens Club St,240.0
+National Capital Region,Metro Manila,Malabon-Navotas District Engineering Office,MALABON CITY (LONE DISTRICT),Tertiary,Leoño St,570.0
+National Capital Region,Metro Manila,Malabon-Navotas District Engineering Office,MALABON CITY (LONE DISTRICT),Tertiary,MH Del Pilar St (Malabon),4279.0
+National Capital Region,Metro Manila,Malabon-Navotas District Engineering Office,MALABON CITY (LONE DISTRICT),Tertiary,Naval St,346.0
+National Capital Region,Metro Manila,Malabon-Navotas District Engineering Office,MALABON CITY (LONE DISTRICT),Tertiary,P Aquino Rd (Letre),106.0
+National Capital Region,Metro Manila,Malabon-Navotas District Engineering Office,MALABON CITY (LONE DISTRICT),Tertiary,P Aquino Rd (Letre),1536.0
+National Capital Region,Metro Manila,Malabon-Navotas District Engineering Office,MALABON CITY (LONE DISTRICT),Tertiary,P Aquino Rd (Letre),113.0
+National Capital Region,Metro Manila,Malabon-Navotas District Engineering Office,MALABON CITY (LONE DISTRICT),Tertiary,Prelaya St,363.0
+National Capital Region,Metro Manila,Malabon-Navotas District Engineering Office,MALABON CITY (LONE DISTRICT),Tertiary,Prosperidad St,381.0
+National Capital Region,Metro Manila,Malabon-Navotas District Engineering Office,MALABON CITY (LONE DISTRICT),Tertiary,Road to Tanza,269.0
+National Capital Region,Metro Manila,Malabon-Navotas District Engineering Office,MALABON CITY (LONE DISTRICT),Tertiary,Sacristia St (Malabon Div Rd),192.0
+National Capital Region,Metro Manila,Malabon-Navotas District Engineering Office,MALABON CITY (LONE DISTRICT),Tertiary,Sanciangco St,1701.0
+National Capital Region,Metro Manila,Malabon-Navotas District Engineering Office,MALABON CITY (LONE DISTRICT),Tertiary,Sevilla Blvd,320.0
+National Capital Region,Metro Manila,Malabon-Navotas District Engineering Office,NAVOTAS CITY (LONE DISTRICT),Secondary,C-3 Road,719.0
+National Capital Region,Metro Manila,Malabon-Navotas District Engineering Office,NAVOTAS CITY (LONE DISTRICT),Secondary,C-3 Road,710.0
+National Capital Region,Metro Manila,Malabon-Navotas District Engineering Office,NAVOTAS CITY (LONE DISTRICT),Secondary,R-10,2270.0
+National Capital Region,Metro Manila,Malabon-Navotas District Engineering Office,NAVOTAS CITY (LONE DISTRICT),Secondary,R-10,1230.0
+National Capital Region,Metro Manila,Malabon-Navotas District Engineering Office,NAVOTAS CITY (LONE DISTRICT),Secondary,R-10,495.0
+National Capital Region,Metro Manila,Malabon-Navotas District Engineering Office,NAVOTAS CITY (LONE DISTRICT),Secondary,R-10,415.0
+National Capital Region,Metro Manila,Malabon-Navotas District Engineering Office,NAVOTAS CITY (LONE DISTRICT),Tertiary,Cadorniga St,457.0
+National Capital Region,Metro Manila,Malabon-Navotas District Engineering Office,NAVOTAS CITY (LONE DISTRICT),Tertiary,Gov A Pascual St,2335.0
+National Capital Region,Metro Manila,Malabon-Navotas District Engineering Office,NAVOTAS CITY (LONE DISTRICT),Tertiary,Gov A Pascual St,143.0
+National Capital Region,Metro Manila,Malabon-Navotas District Engineering Office,NAVOTAS CITY (LONE DISTRICT),Tertiary,M Naval St,2985.0
+National Capital Region,Metro Manila,Malabon-Navotas District Engineering Office,NAVOTAS CITY (LONE DISTRICT),Tertiary,North Bay Blvd,2340.0
+National Capital Region,Metro Manila,Malabon-Navotas District Engineering Office,NAVOTAS CITY (LONE DISTRICT),Tertiary,Tanza-Gasak Rd,524.0
+National Capital Region,Metro Manila,Malabon-Navotas District Engineering Office,NAVOTAS CITY (LONE DISTRICT),Tertiary,Tanza-Gasak Rd,261.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,CITY OF MAKATI (FIRST & SECOND DISTRICT),Tertiary,JP Rizal St,918.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,CITY OF MAKATI (SECOND DISTRICT),Primary,C-5 Road,3515.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,CITY OF MAKATI (SECOND DISTRICT),Primary,C-5 Road,3494.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,CITY OF MAKATI (SECOND DISTRICT),Secondary,Kalayaan Ave Ext,1957.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,CITY OF MAKATI (SECOND DISTRICT),Secondary,Kalayaan Ave Ext,1948.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,CITY OF MAKATI (SECOND DISTRICT),Tertiary,C-5/Kalayaan Interchange 1 (West to East),364.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,CITY OF MAKATI (SECOND DISTRICT),Tertiary,C-5/Kalayaan Interchange 2 (East to West),359.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,CITY OF MAKATI (SECOND DISTRICT),Tertiary,McKinley Rd,372.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,CITY OF MAKATI (SECOND DISTRICT),Tertiary,McKinley-Pateros Rd,3011.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,CITY OF MANDALUYONG (LONE DISTRICT),Primary,EDSA/Ortigas Flyover,501.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,CITY OF MANDALUYONG (LONE DISTRICT),Primary,EDSA/Ortigas Interchange,627.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,CITY OF MANDALUYONG (LONE DISTRICT),Primary,EDSA/Shaw Underpass,755.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,CITY OF MANDALUYONG (LONE DISTRICT),Primary,Epifanio Delos Santos Ave (EDSA),3911.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,CITY OF MANDALUYONG (LONE DISTRICT),Secondary,EDSA-Shaw Flyover,657.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,CITY OF MANDALUYONG (LONE DISTRICT),Secondary,EDSA/Ortigas Interchange,643.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,CITY OF MANDALUYONG (LONE DISTRICT),Tertiary,A Bonifacio-A Luna Rd,1258.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,CITY OF MANDALUYONG (LONE DISTRICT),Tertiary,Boni Ave,3046.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,CITY OF MANDALUYONG (LONE DISTRICT),Tertiary,Boni Ave,3036.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,CITY OF MANDALUYONG (LONE DISTRICT),Tertiary,Correctional Institute Rd,668.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,CITY OF MANDALUYONG (LONE DISTRICT),Tertiary,Gen Kalentong-Blumentritt-Jolo Rd,4080.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,CITY OF MANDALUYONG (LONE DISTRICT),Tertiary,Makati-Mandaluyong Approach Rd,170.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,CITY OF MANDALUYONG (LONE DISTRICT),Tertiary,Makati-Mandaluyong Approach Rd,103.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,CITY OF MANDALUYONG (LONE DISTRICT),Tertiary,National Mental Hospital Rd,952.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,CITY OF MANDALUYONG (LONE DISTRICT),Tertiary,New Panaderos Ext,787.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,CITY OF MANDALUYONG (LONE DISTRICT),Tertiary,New Psychopathic Hospital,882.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,CITY OF MANDALUYONG (LONE DISTRICT),Tertiary,Pioneer - Boni Tunnel,441.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,CITY OF MANDALUYONG (LONE DISTRICT),Tertiary,Psychopathic Hospital Rd,2416.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,CITY OF MANDALUYONG (LONE DISTRICT),Tertiary,Welfare Ville Rd,743.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,CITY OF MARIKINA (FIRST DISTRICT),Primary,A Bonifacio Ave,344.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,CITY OF MARIKINA (FIRST DISTRICT),Primary,Marcos Highway,3775.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,CITY OF MARIKINA (FIRST DISTRICT),Primary,Marcos Highway,3612.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,CITY OF MARIKINA (FIRST DISTRICT),Tertiary,A Bonifacio Ave,301.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,CITY OF MARIKINA (FIRST DISTRICT),Tertiary,A Bonifacio Ave,1698.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,CITY OF MARIKINA (FIRST DISTRICT),Tertiary,A Bonifacio Ave,151.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,CITY OF MARIKINA (FIRST DISTRICT),Tertiary,E. Dela Paz St,1787.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,CITY OF MARIKINA (FIRST DISTRICT),Tertiary,Gil Fernando Ave.,2648.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,CITY OF MARIKINA (FIRST DISTRICT),Tertiary,JP Rizal St,2009.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,CITY OF MARIKINA (FIRST DISTRICT),Tertiary,Katipunan St,1871.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,CITY OF MARIKINA (FIRST DISTRICT),Tertiary,Marikina-Sn Mateo Rd,4888.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,CITY OF MARIKINA (FIRST DISTRICT),Tertiary,N Roxas St,458.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,CITY OF MARIKINA (FIRST DISTRICT),Tertiary,Road Around Marikina Public Market,159.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,CITY OF MARIKINA (FIRST DISTRICT),Tertiary,Shoe Ave,6120.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,CITY OF MARIKINA (FIRST DISTRICT),Tertiary,Sumulong H-way,1313.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,CITY OF MARIKINA (SECOND DISTRICT),Tertiary,Bayanbayan Ave,1198.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,CITY OF MARIKINA (SECOND DISTRICT),Tertiary,Gen Ordoñez St,4320.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,MAKATI CITY (SECOND DISTRICT),Tertiary,C-5 Service Rd,188.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,MAKATI CITY (SECOND DISTRICT),Tertiary,C-5 Service Rd,191.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,MAKATI CITY (SECOND DISTRICT),Tertiary,C-5 Service Rd,796.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,MAKATI CITY (SECOND DISTRICT),Tertiary,C-5 Service Rd,202.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,MAKATI CITY (SECOND DISTRICT),Tertiary,C-5 Service Rd,178.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,PASIG & MANDALUYONG CITY (LONE DISTRICT),Tertiary,Pioneer St,1536.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,PASIG CITY & CITY OF MANDALUYONG (LONE DISTRICTS),Secondary,Shaw Blvd,5265.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,PASIG CITY (LONE DISTRICT),Primary,C-5 Ortigas Interchange,320.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,PASIG CITY (LONE DISTRICT),Primary,C-5 Road,4025.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,PASIG CITY (LONE DISTRICT),Primary,C-5 Road,193.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,PASIG CITY (LONE DISTRICT),Primary,C-5 Road,4043.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,PASIG CITY (LONE DISTRICT),Primary,C-5 Road,252.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,PASIG CITY (LONE DISTRICT),Primary,C5- Ortigas Flyover,883.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,PASIG CITY (LONE DISTRICT),Primary,Manila East Rd (Rosario-Cainta Rd),2588.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,PASIG CITY (LONE DISTRICT),Primary,Manila East Rd (Rosario-Cainta Rd),1155.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,PASIG CITY (LONE DISTRICT),Primary,Ortigas Ave,3039.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,PASIG CITY (LONE DISTRICT),Primary,Ortigas Ave,3033.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,PASIG CITY (LONE DISTRICT),Primary,Ortigas-C5 Flyover,602.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,PASIG CITY (LONE DISTRICT),Secondary,C-5 Road,420.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,PASIG CITY (LONE DISTRICT),Secondary,C-5 Road,361.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,PASIG CITY (LONE DISTRICT),Secondary,Pasig Blvd,650.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,PASIG CITY (LONE DISTRICT),Secondary,Pasig Blvd,320.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,PASIG CITY (LONE DISTRICT),Secondary,Pasig Blvd,1547.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,PASIG CITY (LONE DISTRICT),Secondary,Pasig Blvd,623.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,PASIG CITY (LONE DISTRICT),Secondary,Pasig-Pateros Rd,1728.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,PASIG CITY (LONE DISTRICT),Secondary,Shaw Blvd,2022.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,PASIG CITY (LONE DISTRICT),Secondary,Sn Joaquin-Buting Rd,1100.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,PASIG CITY (LONE DISTRICT),Tertiary,Amang Rodriguez Rd,3598.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,PASIG CITY (LONE DISTRICT),Tertiary,Blumentritt Market Rd,126.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,PASIG CITY (LONE DISTRICT),Tertiary,Blumentritt St (Pasig Market),125.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,PASIG CITY (LONE DISTRICT),Tertiary,Dr Garcia St,350.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,PASIG CITY (LONE DISTRICT),Tertiary,Dr Sixto Antonio,2946.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,PASIG CITY (LONE DISTRICT),Tertiary,Imelda Ave,2643.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,PASIG CITY (LONE DISTRICT),Tertiary,Lopez-Jaena,1228.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,PASIG CITY (LONE DISTRICT),Tertiary,Old Capitol Building Rd,471.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,PASIG CITY (LONE DISTRICT),Tertiary,Pasig Diversion Rd 1,177.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,PASIG CITY (LONE DISTRICT),Tertiary,Pasig Diversion Rd 2,286.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,PASIG CITY (LONE DISTRICT),Tertiary,Pasig-Santolan Rd,2516.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,PASIG CITY (LONE DISTRICT),Tertiary,Road Around Pasig Market Rd (Alcalde Jose St),262.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,PASIG CITY (LONE DISTRICT),Tertiary,Road Around Pasig Market Road (Concepcion St.),280.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,PASIG CITY (LONE DISTRICT),Tertiary,Rotonda-Pariancillo Rd,440.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,PASIG CITY (LONE DISTRICT),Tertiary,Sn Nicolas-Sagad Rd,1209.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,SAN JUAN CITY & CITY OF MANDALUYONG (LONE DISTRICTS),Secondary,Ortigas Ave,2612.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,SAN JUAN CITY & CITY OF MANDALUYONG (LONE DISTRICTS),Tertiary,P Guevarra-J Vargas St,2167.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,SAN JUAN CITY (LONE DISTRICT),Primary,Epifanio Delos Santos Ave (EDSA),4548.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,SAN JUAN CITY (LONE DISTRICT),Secondary,Ortigas Ave,2618.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,SAN JUAN CITY (LONE DISTRICT),Tertiary,Blumentritt,1571.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,SAN JUAN CITY (LONE DISTRICT),Tertiary,F Manalo,1187.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,SAN JUAN CITY (LONE DISTRICT),Tertiary,Luna-Mencias Rd,563.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,SAN JUAN CITY (LONE DISTRICT),Tertiary,M Paterno St,924.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,SAN JUAN CITY (LONE DISTRICT),Tertiary,N Domingo,1715.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,SAN JUAN CITY (LONE DISTRICT),Tertiary,Pinaglabanan,872.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,SAN JUAN CITY (LONE DISTRICT),Tertiary,San Juan-Santolan Rd,2161.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,TAGUIG CITY (FIRST & SECOND DISTRICT),Secondary,Gen Santos Ave,1526.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,TAGUIG CITY (FIRST & SECOND DISTRICT),Secondary,Gen Santos Ave,1531.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,TAGUIG CITY (FIRST DISTRICT),Secondary,PPTA Rd,10442.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,TAGUIG CITY (FIRST DISTRICT),Tertiary,Pateros-McKinley Rd,375.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,TAGUIG CITY (FIRST DISTRICT),Tertiary,Taguig Diversion Rd,1594.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,TAGUIG CITY (FIRST DISTRICT),Tertiary,Taguig Public Market Road,176.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,TAGUIG CITY (FIRST DISTRICT),Tertiary,Taguig-Sta. Ana Road,734.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,TAGUIG CITY (FIRST DISTRICT),Tertiary,Tipas-Napindan Rd,3733.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,TAGUIG CITY (FIRST DISTRICT),Tertiary,Ususan Diversion Rd,1351.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,TAGUIG CITY (SECOND DISTRICT),Primary,C-5 Road,4086.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,TAGUIG CITY (SECOND DISTRICT),Primary,C-5 Road,4102.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,TAGUIG CITY (SECOND DISTRICT),Secondary,Kalayaan Ave Ext,415.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,TAGUIG CITY (SECOND DISTRICT),Secondary,Kalayaan Ave Ext,209.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,TAGUIG CITY (SECOND DISTRICT),Tertiary,C-5 Service Rd,351.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,TAGUIG CITY (SECOND DISTRICT),Tertiary,C-5 Service Rd,2221.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,TAGUIG CITY (SECOND DISTRICT),Tertiary,C-5/Sampaguita East & West Interchange,486.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,TAGUIG CITY (SECOND DISTRICT),Tertiary,C-5/Sampaguita Fly-Over (East & West Ramps Connector),90.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,TAGUIG CITY (SECOND DISTRICT),Tertiary,C-5/Sampaguita West Ramp off Rd,404.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,TAGUIG CITY (SECOND DISTRICT),Tertiary,C-5/Sampaguita West Ramp on Rd,149.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,TAGUIG CITY (SECOND DISTRICT),Tertiary,C-5/Sampaguita West Service Rd,1200.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,TAGUIG CITY (SECOND DISTRICT),Tertiary,C-5/Sampaguita West Service Rd Ramp Off Rd,546.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,TAGUIG CITY (SECOND DISTRICT),Tertiary,C-5/Sampaguita West Service Rd Ramp On Rd,332.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,TAGUIG CITY (SECOND DISTRICT),Tertiary,C-5/Sampaguita east On & Off Ramp Rd,727.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,TAGUIG CITY (SECOND DISTRICT),Tertiary,Fort Bonifacio-Nichols Field Rd,3543.0
+National Capital Region,Metro Manila,Metro Manila 1st District Engineering Office,TAGUIG CITY (SECOND DISTRICT),Tertiary,Libingan ng mga Bayani,1299.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF MAKATI (FIRST & SECOND DISTRICT),Secondary,EDSA-Kalayaan-Fort Bonifacio Flyover (East Bound),1490.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF MAKATI (FIRST & SECOND DISTRICT),Secondary,EDSA-Kalayaan-Fort Bonifacio Flyover (West Bound),1478.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF MAKATI (FIRST & SECOND DISTRICT),Tertiary,JP Rizal St,4078.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF MAKATI (FIRST DISTRICT),Primary,EDSA Service Rd 3 (South Bound),332.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF MAKATI (FIRST DISTRICT),Primary,EDSA Service Rd 4 (South Bound),188.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF MAKATI (FIRST DISTRICT),Primary,EDSA-Ayala Tunnel  Wye Length (South Bound),354.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF MAKATI (FIRST DISTRICT),Primary,EDSA-Ayala Tunnel (South Bound),974.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF MAKATI (FIRST DISTRICT),Primary,EDSA/Magallanes Flyover (South Bound),405.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF MAKATI (FIRST DISTRICT),Primary,EDSA/Magallanes Interchange,69.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF MAKATI (FIRST DISTRICT),Primary,Edsa-Magallanes Flyover,160.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF MAKATI (FIRST DISTRICT),Primary,Epifanio Delos Santos Ave (EDSA),5003.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF MAKATI (FIRST DISTRICT),Primary,South Super Highway SB (Magallanes Flyover),552.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF MAKATI (FIRST DISTRICT),Secondary,Gil Puyat Ave,4176.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF MAKATI (FIRST DISTRICT),Secondary,Gil Puyat Ave,4155.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF MAKATI (FIRST DISTRICT),Secondary,South Super H-way,3110.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF MAKATI (FIRST DISTRICT),Secondary,South Super H-way,3126.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF MAKATI (FIRST DISTRICT),Secondary,South Super Highway (Buendia Flyover),522.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF MAKATI (FIRST DISTRICT),Tertiary,AP Reyes Ave,399.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF MAKATI (FIRST DISTRICT),Tertiary,Antonio Arnaiz Ave,2226.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF MAKATI (FIRST DISTRICT),Tertiary,Arellano Ave,710.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF MAKATI (FIRST DISTRICT),Tertiary,Ayala-EDSA Flyover,625.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF MAKATI (FIRST DISTRICT),Tertiary,Dian Road,1485.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF MAKATI (FIRST DISTRICT),Tertiary,EDSA/Guadalupe Cloverleaf Rd,159.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF MAKATI (FIRST DISTRICT),Tertiary,EDSA/Guadalupe Cloverleaf Rd,144.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF MAKATI (FIRST DISTRICT),Tertiary,Havana St,300.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF MAKATI (FIRST DISTRICT),Tertiary,Havana St,192.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF MAKATI (FIRST DISTRICT),Tertiary,Kalayaan Ave,495.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF MAKATI (FIRST DISTRICT),Tertiary,Kalayaan Ave,2755.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF MAKATI (FIRST DISTRICT),Tertiary,Makati Ave,761.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF MAKATI (FIRST DISTRICT),Tertiary,Makati Ave,143.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF MAKATI (FIRST DISTRICT),Tertiary,Makati-Mandaluyong Br.,147.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF MAKATI (FIRST DISTRICT),Tertiary,Pasong Tamo,3669.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF MAKATI (FIRST DISTRICT),Tertiary,South Drive,805.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF MAKATI (FIRST DISTRICT),Tertiary,Vito Cruz Ext,1375.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF MAKATI (SECOND DISTRICT),Primary,EDSA Service Rd 1 (North Bound),245.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF MAKATI (SECOND DISTRICT),Primary,EDSA Service Rd 2 (North Bound),188.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF MAKATI (SECOND DISTRICT),Primary,EDSA-Ayala Tunnel  Wye Length (North Bound),265.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF MAKATI (SECOND DISTRICT),Primary,EDSA-Ayala Tunnel (North Bound),967.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF MAKATI (SECOND DISTRICT),Primary,Epifanio Delos Santos Ave (EDSA),4912.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF MAKATI (SECOND DISTRICT),Primary,South Super H-way West Service Rd,235.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF MAKATI (SECOND DISTRICT),Primary,South Super Highway NB (Magallanes Flyover ),415.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF MAKATI (SECOND DISTRICT),Secondary,Edsa-Kalayaan-Fort Bonifacio Flyover,219.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF MAKATI (SECOND DISTRICT),Secondary,Edsa-Kalayaan-Fort Bonifacio Flyover,237.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF MAKATI (SECOND DISTRICT),Secondary,Edsa-Kalayaan-Fort Bonifacio Flyover,181.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF MAKATI (SECOND DISTRICT),Secondary,Kalayaan Ave Ext,540.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF MAKATI (SECOND DISTRICT),Secondary,Kalayaan Ave Ext,653.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF MAKATI (SECOND DISTRICT),Secondary,Kalayaan Ave Ext,492.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF MAKATI (SECOND DISTRICT),Secondary,Kalayaan Ave Ext,434.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF MAKATI (SECOND DISTRICT),Secondary,Kalayaan-EDSA Flyover,400.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF MAKATI (SECOND DISTRICT),Tertiary,EDSA/Guadalupe Cloverleaf Rd,181.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF MAKATI (SECOND DISTRICT),Tertiary,EDSA/Guadalupe Cloverleaf Rd,203.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF MAKATI (SECOND DISTRICT),Tertiary,McKinley Rd,1926.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF MAKATI (SECOND DISTRICT),Tertiary,Pasong Tamo Ext,2120.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF MAKATI (SECOND DISTRICT),Tertiary,South Super H-way West Service Rd,320.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF PARAÑAQUE (FIRST & SECOND DISTRICT),Primary,Paranaque-Sucat Rd,7091.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF PARAÑAQUE (FIRST DISTRICT),Primary,Paranaque-Sucat Rd,7107.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF PARAÑAQUE (FIRST DISTRICT),Primary,Quirino Avenue,3822.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF PARAÑAQUE (FIRST DISTRICT),Primary,Roxas Blvd,1786.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF PARAÑAQUE (FIRST DISTRICT),Primary,Roxas Blvd,1795.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF PARAÑAQUE (FIRST DISTRICT),Secondary,Airport Rd,523.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF PARAÑAQUE (FIRST DISTRICT),Secondary,NAIA Rd (MIA Road),551.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF PARAÑAQUE (FIRST DISTRICT),Secondary,NAIA Rd (MIA Road),541.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF PARAÑAQUE (FIRST DISTRICT),Secondary,Ninoy Aquino  Ave,2843.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF PARAÑAQUE (FIRST DISTRICT),Secondary,Ninoy Aquino  Ave,2836.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF PARAÑAQUE (FIRST DISTRICT),Tertiary,Camp Claudio Cadre Rd,151.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF PARAÑAQUE (FIRST DISTRICT),Tertiary,FB Harrison,146.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF PARAÑAQUE (FIRST DISTRICT),Tertiary,Quirino Avenue,1638.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF PARAÑAQUE (FIRST DISTRICT),Tertiary,Quirino Avenue,469.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF PARAÑAQUE (FIRST DISTRICT),Tertiary,Roxas Blvd East Service Rd,489.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF PARAÑAQUE (FIRST DISTRICT),Tertiary,Taft Ave,157.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF PARAÑAQUE (FIRST DISTRICT),Tertiary,Tomas Claudio,342.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF PARAÑAQUE (SECOND DISTRICT),Secondary,Paranaque-Sucat Rd,200.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF PARAÑAQUE (SECOND DISTRICT),Tertiary,South Super H-way East Service Rd,7926.0
+National Capital Region,Metro Manila,Metro Manila 2nd District Engineering Office,CITY OF PARAÑAQUE (SECOND DISTRICT),Tertiary,South Super H-way West Service Rd,5862.0
+National Capital Region,Metro Manila,Metro Manila 3rd District Engineering Office,CALOOCAN CITY (FIRST & SECOND DISTRICT),Secondary,Samson Rd,1063.0
+National Capital Region,Metro Manila,Metro Manila 3rd District Engineering Office,CALOOCAN CITY (FIRST & SECOND DISTRICT),Tertiary,A Mabini St,2862.0
+National Capital Region,Metro Manila,Metro Manila 3rd District Engineering Office,CALOOCAN CITY (FIRST DISTRICT),Primary,Bonifacio Monument Circle,223.0
+National Capital Region,Metro Manila,Metro Manila 3rd District Engineering Office,CALOOCAN CITY (FIRST DISTRICT),Primary,Epifanio Delos Santos Ave (EDSA),1605.0
+National Capital Region,Metro Manila,Metro Manila 3rd District Engineering Office,CALOOCAN CITY (FIRST DISTRICT),Primary,MacArthur H-way,400.0
+National Capital Region,Metro Manila,Metro Manila 3rd District Engineering Office,CALOOCAN CITY (FIRST DISTRICT),Primary,MacArthur H-way,390.0
+National Capital Region,Metro Manila,Metro Manila 3rd District Engineering Office,CALOOCAN CITY (FIRST DISTRICT),Secondary,Gen San Miguel St,762.0
+National Capital Region,Metro Manila,Metro Manila 3rd District Engineering Office,CALOOCAN CITY (FIRST DISTRICT),Secondary,Kaybiga Rd,2136.0
+National Capital Region,Metro Manila,Metro Manila 3rd District Engineering Office,CALOOCAN CITY (FIRST DISTRICT),Tertiary,Congressional Rd,2275.0
+National Capital Region,Metro Manila,Metro Manila 3rd District Engineering Office,CALOOCAN CITY (FIRST DISTRICT),Tertiary,Deparo-Bagumbong Rd,4350.0
+National Capital Region,Metro Manila,Metro Manila 3rd District Engineering Office,CALOOCAN CITY (FIRST DISTRICT),Tertiary,Deparo-Camarin Rd,6221.0
+National Capital Region,Metro Manila,Metro Manila 3rd District Engineering Office,CALOOCAN CITY (FIRST DISTRICT),Tertiary,North Expressway East Service Rd (Caloocan),602.0
+National Capital Region,Metro Manila,Metro Manila 3rd District Engineering Office,CALOOCAN CITY (FIRST DISTRICT),Tertiary,North Expressway West Service Rd (Caloocan),688.0
+National Capital Region,Metro Manila,Metro Manila 3rd District Engineering Office,CALOOCAN CITY (SECOND DISTRICT),Primary,Epifanio Delos Santos Ave (EDSA),1608.0
+National Capital Region,Metro Manila,Metro Manila 3rd District Engineering Office,CALOOCAN CITY (SECOND DISTRICT),Secondary,C-3 Road,1097.0
+National Capital Region,Metro Manila,Metro Manila 3rd District Engineering Office,CALOOCAN CITY (SECOND DISTRICT),Secondary,C-3 Road,544.0
+National Capital Region,Metro Manila,Metro Manila 3rd District Engineering Office,CALOOCAN CITY (SECOND DISTRICT),Secondary,C-3 Road,1876.0
+National Capital Region,Metro Manila,Metro Manila 3rd District Engineering Office,CALOOCAN CITY (SECOND DISTRICT),Secondary,C-3 Road,3510.0
+National Capital Region,Metro Manila,Metro Manila 3rd District Engineering Office,CALOOCAN CITY (SECOND DISTRICT),Secondary,Rizal Ave Ext,2267.0
+National Capital Region,Metro Manila,Metro Manila 3rd District Engineering Office,CALOOCAN CITY (SECOND DISTRICT),Secondary,Rizal Ave Ext,2265.0
+National Capital Region,Metro Manila,Metro Manila 3rd District Engineering Office,CALOOCAN CITY (SECOND DISTRICT),Tertiary,10th Ave East,1201.0
+National Capital Region,Metro Manila,Metro Manila 3rd District Engineering Office,CALOOCAN CITY (SECOND DISTRICT),Tertiary,10th Ave West,1217.0
+National Capital Region,Metro Manila,Metro Manila 3rd District Engineering Office,CALOOCAN CITY (SECOND DISTRICT),Tertiary,7th Ave East,1211.0
+National Capital Region,Metro Manila,Metro Manila 3rd District Engineering Office,CALOOCAN CITY (SECOND DISTRICT),Tertiary,7th Ave West,818.0
+National Capital Region,Metro Manila,Metro Manila 3rd District Engineering Office,CALOOCAN CITY (SECOND DISTRICT),Tertiary,B Serrano St,1407.0
+National Capital Region,Metro Manila,Metro Manila 3rd District Engineering Office,CALOOCAN CITY (THIRD DISTRICT),Tertiary,Central Luzon Leprosarium Rd,1422.0
+National Capital Region,Metro Manila,Metro Manila 3rd District Engineering Office,CALOOCAN CITY (THIRD DISTRICT),Tertiary,Central Luzon Leprosarium Rd,444.0
+National Capital Region,Metro Manila,Metro Manila 3rd District Engineering Office,CALOOCAN CITY (THIRD DISTRICT),Tertiary,Central Luzon Leprosarium Rd,73.0
+National Capital Region,Metro Manila,Metro Manila 3rd District Engineering Office,CALOOCAN CITY (THIRD DISTRICT),Tertiary,Central Luzon Leprosarium Rd,2208.0
+National Capital Region,Metro Manila,Metro Manila 3rd District Engineering Office,CALOOCAN CITY (THIRD DISTRICT),Tertiary,Malaria Field Control Rd,504.0
+National Capital Region,Metro Manila,Metro Manila 3rd District Engineering Office,CALOOCAN CITY (THIRD DISTRICT),Tertiary,Novaliches-Sn Jose Rd,4640.0
+National Capital Region,Metro Manila,Metro Manila 3rd District Engineering Office,CALOOCAN CITY (THIRD DISTRICT),Tertiary,Novaliches-Sn Jose Rd,110.0
+National Capital Region,Metro Manila,Metro Manila 3rd District Engineering Office,VALENZUELA CITY (FIRST & SECOND DISTRICT),Primary,MacArthur H-way,6762.0
+National Capital Region,Metro Manila,Metro Manila 3rd District Engineering Office,VALENZUELA CITY (FIRST & SECOND DISTRICT),Secondary,Polo-Novaliches Rd,4495.0
+National Capital Region,Metro Manila,Metro Manila 3rd District Engineering Office,VALENZUELA CITY (FIRST & SECOND DISTRICT),Tertiary,Gov T Santiago St,4050.0
+National Capital Region,Metro Manila,Metro Manila 3rd District Engineering Office,VALENZUELA CITY (FIRST DISTRICT),Tertiary,Canumay-Bignay Rd,5783.0
+National Capital Region,Metro Manila,Metro Manila 3rd District Engineering Office,VALENZUELA CITY (FIRST DISTRICT),Tertiary,Coloong Rd,650.0
+National Capital Region,Metro Manila,Metro Manila 3rd District Engineering Office,VALENZUELA CITY (FIRST DISTRICT),Tertiary,Coloong Rd,4205.0
+National Capital Region,Metro Manila,Metro Manila 3rd District Engineering Office,VALENZUELA CITY (FIRST DISTRICT),Tertiary,Coloong Rd,310.0
+National Capital Region,Metro Manila,Metro Manila 3rd District Engineering Office,VALENZUELA CITY (FIRST DISTRICT),Tertiary,East Service Rd (Valenzuela),983.0
+National Capital Region,Metro Manila,Metro Manila 3rd District Engineering Office,VALENZUELA CITY (FIRST DISTRICT),Tertiary,East Service Rd (Valenzuela),1915.0
+National Capital Region,Metro Manila,Metro Manila 3rd District Engineering Office,VALENZUELA CITY (FIRST DISTRICT),Tertiary,G Lazaro St,1590.0
+National Capital Region,Metro Manila,Metro Manila 3rd District Engineering Office,VALENZUELA CITY (FIRST DISTRICT),Tertiary,Gov I Santiago St,656.0
+National Capital Region,Metro Manila,Metro Manila 3rd District Engineering Office,VALENZUELA CITY (FIRST DISTRICT),Tertiary,MH Del Pilar (Valenzuela),3526.0
+National Capital Region,Metro Manila,Metro Manila 3rd District Engineering Office,VALENZUELA CITY (FIRST DISTRICT),Tertiary,Pasolo-Rincon Road,2027.0
+National Capital Region,Metro Manila,Metro Manila 3rd District Engineering Office,VALENZUELA CITY (SECOND DISTRICT),Secondary,Mindanao Ave,1207.0
+National Capital Region,Metro Manila,Metro Manila 3rd District Engineering Office,VALENZUELA CITY (SECOND DISTRICT),Secondary,Mindanao Ave,1110.0
+National Capital Region,Metro Manila,Metro Manila 3rd District Engineering Office,VALENZUELA CITY (SECOND DISTRICT),Secondary,Mindanao Ave,598.0
+National Capital Region,Metro Manila,Metro Manila 3rd District Engineering Office,VALENZUELA CITY (SECOND DISTRICT),Secondary,Mindanao Ave,497.0
+National Capital Region,Metro Manila,Metro Manila 3rd District Engineering Office,VALENZUELA CITY (SECOND DISTRICT),Tertiary,East Service Rd (Valenzuela),2548.0
+National Capital Region,Metro Manila,Metro Manila 3rd District Engineering Office,VALENZUELA CITY (SECOND DISTRICT),Tertiary,G Fernando St,270.0
+National Capital Region,Metro Manila,Metro Manila 3rd District Engineering Office,VALENZUELA CITY (SECOND DISTRICT),Tertiary,Gen T de Leon St,3433.0
+National Capital Region,Metro Manila,Metro Manila 3rd District Engineering Office,VALENZUELA CITY (SECOND DISTRICT),Tertiary,Polo-Pugad Baboy Rd,1360.0
+National Capital Region,Metro Manila,Metro Manila 3rd District Engineering Office,VALENZUELA CITY (SECOND DISTRICT),Tertiary,Polo-Pugad Baboy Rd,1245.0
+National Capital Region,Metro Manila,Metro Manila 3rd District Engineering Office,VALENZUELA CITY (SECOND DISTRICT),Tertiary,West Service Rd (Valenzuela),1612.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FIRST & SECOND DISTRICT),Secondary,C-2 Road,1373.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FIRST & SECOND DISTRICT),Tertiary,Dagupan St,1570.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FIRST & SECOND DISTRICT),Tertiary,H Lopez Blvd,1925.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FIRST & THIRD DISTRICT),Tertiary,M Roxas Service Rd,431.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FIRST & THIRD DISTRICT),Tertiary,M Roxas Service Rd,447.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FIRST DISTRICT),Secondary,M Roxas Jr Bridge,1250.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FIRST DISTRICT),Secondary,M Roxas Jr Bridge,1241.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FIRST DISTRICT),Secondary,R-10,3648.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FIRST DISTRICT),Secondary,R-10,1575.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FIRST DISTRICT),Secondary,R-10,177.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FIRST DISTRICT),Secondary,R-10,859.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FIRST DISTRICT),Secondary,Tayuman,1624.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FIRST DISTRICT),Tertiary,Del Pan Ext. Rd,309.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FIRST DISTRICT),Tertiary,Del Pan Ext. Rd,325.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FIRST DISTRICT),Tertiary,Herbosa St,529.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FIRST DISTRICT),Tertiary,JL Escoda St,233.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FIRST DISTRICT),Tertiary,Kalakal,169.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FIRST DISTRICT),Tertiary,Marcos Rd,734.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FIRST DISTRICT),Tertiary,Marcos Rd,2098.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FIRST DISTRICT),Tertiary,Moriones,884.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FIRST DISTRICT),Tertiary,Moriones,1205.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FIRST DISTRICT),Tertiary,Perla St.,36.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FIRST DISTRICT),Tertiary,Rodriguez St,399.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FIRST DISTRICT),Tertiary,Sn Rafael St,197.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FIRST DISTRICT),Tertiary,Sta. Maria St.,268.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FIRST DISTRICT),Tertiary,Ugbo St.,131.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FIRST DISTRICT),Tertiary,Velasquez,1241.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FIRST DISTRICT),Tertiary,Vitas,573.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FIRST DISTRICT),Tertiary,Zaragosa St,308.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,"MANILA CITY (FIRST, SECOND & THIRD DISTRICT)",Tertiary,Juan Luna St,4640.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,"MANILA CITY (FIRST, SECOND, THIRD & FOURTHDISTRICT)",Secondary,CM Recto,3280.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FOURTH DISTRICT),Secondary,Blumentritt St (LZ),1614.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FOURTH DISTRICT),Secondary,Dimasalang St,241.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FOURTH DISTRICT),Secondary,Dimasalang St,1070.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FOURTH DISTRICT),Secondary,España Blvd,1956.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FOURTH DISTRICT),Secondary,España Blvd,1968.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FOURTH DISTRICT),Secondary,Legarda Flyover,498.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FOURTH DISTRICT),Secondary,Legarda Flyover,417.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FOURTH DISTRICT),Secondary,Lerma St,259.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FOURTH DISTRICT),Secondary,Lerma St,270.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FOURTH DISTRICT),Secondary,R Magsaysay Blvd,2035.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FOURTH DISTRICT),Secondary,R Magsaysay Blvd,28.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FOURTH DISTRICT),Secondary,R Magsaysay Blvd,27.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FOURTH DISTRICT),Tertiary,A Maceda St,1679.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FOURTH DISTRICT),Tertiary,Alfonso Mendoza St,950.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FOURTH DISTRICT),Tertiary,Algeciras St,2083.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FOURTH DISTRICT),Tertiary,Buenos Aires St,539.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FOURTH DISTRICT),Tertiary,Bustillos St,193.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FOURTH DISTRICT),Tertiary,Dapitan St,1654.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FOURTH DISTRICT),Tertiary,Domingo Santiago St.,680.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FOURTH DISTRICT),Tertiary,E Quintos St,2223.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FOURTH DISTRICT),Tertiary,F Cayco St,794.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FOURTH DISTRICT),Tertiary,G Tuazon St,428.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FOURTH DISTRICT),Tertiary,G Tuazon St,1416.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FOURTH DISTRICT),Tertiary,J Fajardo St,985.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FOURTH DISTRICT),Tertiary,Laon-Laan St,1478.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FOURTH DISTRICT),Tertiary,M Dela Fuente,2232.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FOURTH DISTRICT),Tertiary,M. Earnshaw St,650.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FOURTH DISTRICT),Tertiary,M. Earnshaw St,115.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FOURTH DISTRICT),Tertiary,Manga St.,162.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FOURTH DISTRICT),Tertiary,Nicanor Reyes St,356.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FOURTH DISTRICT),Tertiary,Nicanor Reyes St,351.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FOURTH DISTRICT),Tertiary,P Florentino,996.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FOURTH DISTRICT),Tertiary,Paltok St,622.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FOURTH DISTRICT),Tertiary,Retiro St,225.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FOURTH DISTRICT),Tertiary,SH Loyola,1772.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FOURTH DISTRICT),Tertiary,Santol,543.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (FOURTH DISTRICT),Tertiary,VG Cruz,2375.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (SECOND & THIRD DISTRICT),Tertiary,Quiricada St,1214.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (SECOND DISTRICT),Secondary,J Rizal Ave,4133.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (SECOND DISTRICT),Secondary,JA Santos Ave,2945.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (SECOND DISTRICT),Secondary,JA Santos Ave,2933.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (SECOND DISTRICT),Tertiary,A Rivera St,1185.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (SECOND DISTRICT),Tertiary,Hermosa St,643.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (SECOND DISTRICT),Tertiary,North Antipolo St,1045.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (SECOND DISTRICT),Tertiary,Pampanga St,300.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (SECOND DISTRICT),Tertiary,Solis,898.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (SECOND DISTRICT),Tertiary,T Earnshaw,378.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (SECOND DISTRICT),Tertiary,V Del Fierro,474.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (SIXTH DISTRICT),Secondary,Nagtahan Bridge / Fly-Over,1256.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (SIXTH DISTRICT),Secondary,Nagtahan Bridge / Fly-Over,1262.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (SIXTH DISTRICT),Secondary,Nagtahan Bridge Service Rd,502.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (SIXTH DISTRICT),Secondary,Nagtahan Bridge Service Rd,490.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (SIXTH DISTRICT),Secondary,Nagtahan Bridge Service Rd,39.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (SIXTH DISTRICT),Secondary,P Sanchez St,475.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (SIXTH DISTRICT),Secondary,P Sanchez St,155.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (SIXTH DISTRICT),Secondary,R Magsaysay Blvd,2140.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (SIXTH DISTRICT),Secondary,Ramon Magsaysay Blvd Service Rd,135.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (SIXTH DISTRICT),Secondary,V Mapa Extension,289.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (SIXTH DISTRICT),Secondary,V Mapa Extension,376.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (SIXTH DISTRICT),Secondary,V Mapa St,317.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (SIXTH DISTRICT),Secondary,Valenzuela St,390.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (SIXTH DISTRICT),Tertiary,Bagumbayan St.,628.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (SIXTH DISTRICT),Tertiary,C Aguila St,576.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (SIXTH DISTRICT),Tertiary,Cordillera St,227.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (SIXTH DISTRICT),Tertiary,Gen. Solano St.,445.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (SIXTH DISTRICT),Tertiary,JP Laurel St,1336.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (SIXTH DISTRICT),Tertiary,JP Laurel St,34.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (SIXTH DISTRICT),Tertiary,Lubiran St.,857.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (SIXTH DISTRICT),Tertiary,Malacañang Rd Network,466.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (SIXTH DISTRICT),Tertiary,Malacañang Rd Network,159.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (SIXTH DISTRICT),Tertiary,Malacañang Rd Network,319.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (SIXTH DISTRICT),Tertiary,Malacañang Rd Network,107.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (SIXTH DISTRICT),Tertiary,Mendiola St,578.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (SIXTH DISTRICT),Tertiary,Nicanor Padilla,435.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (SIXTH DISTRICT),Tertiary,Old Sta Mesa,1113.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (SIXTH DISTRICT),Tertiary,Reposo St,274.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (SIXTH DISTRICT),Tertiary,Valenzuela St,240.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD  & FOURTH DISTRICT),Secondary,Legarda St,1445.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD & FOURTH DISTRICT),Secondary,AH Lacson Ave,2347.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD & FOURTH DISTRICT),Tertiary,North Antipolo St,2462.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD & SIXTH DISTRICT),Secondary,P Casal St,526.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD & SIXTH DISTRICT),Tertiary,Arlegui St,1168.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD & SIXTH DISTRICT),Tertiary,C Palanca St,1001.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD & SIXTHDISTRICT),Secondary,P Casal St,510.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD DISTRICT),Secondary,AH Lacson Ave,2337.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD DISTRICT),Secondary,Blumentritt St (LZ),836.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD DISTRICT),Secondary,CM Recto,3227.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD DISTRICT),Secondary,Dimasalang St,1096.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD DISTRICT),Secondary,J Rizal Ave,4308.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD DISTRICT),Secondary,Legarda St,1445.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD DISTRICT),Secondary,Legarda St,26.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD DISTRICT),Secondary,McArthur Bridge,368.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD DISTRICT),Secondary,McArthur Bridge,362.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD DISTRICT),Secondary,McArthur Bridge Service Rd,234.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD DISTRICT),Secondary,Plaza Lacson,94.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD DISTRICT),Secondary,Plaza Sta Cruz,104.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD DISTRICT),Secondary,Quezon Blvd (LZ),828.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD DISTRICT),Secondary,Quezon Blvd (LZ),817.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD DISTRICT),Secondary,Ronquillo St,151.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD DISTRICT),Tertiary,Alfonso Mendoza St,950.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD DISTRICT),Tertiary,Alvarez St,114.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD DISTRICT),Tertiary,Aurora Avenue,895.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD DISTRICT),Tertiary,Bustos St.,102.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD DISTRICT),Tertiary,Carriedo St,224.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD DISTRICT),Tertiary,Dasmarinas St,530.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD DISTRICT),Tertiary,Del Pan Service Rd,156.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD DISTRICT),Tertiary,Del Pan St,221.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD DISTRICT),Tertiary,Del Pan St,515.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD DISTRICT),Tertiary,Evangelista St,530.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD DISTRICT),Tertiary,F Torres St (NCR),410.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD DISTRICT),Tertiary,J Nepomuceno St,180.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD DISTRICT),Tertiary,Jones Bridge,217.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD DISTRICT),Tertiary,Jones Bridge,232.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD DISTRICT),Tertiary,Jones Bridge Service Rd,39.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD DISTRICT),Tertiary,Jones Bridge Service Rd,41.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD DISTRICT),Tertiary,L Rivera,405.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD DISTRICT),Tertiary,Laon-Laan St,350.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD DISTRICT),Tertiary,Ma. Clara,1253.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD DISTRICT),Tertiary,Madrid St,96.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD DISTRICT),Tertiary,Mulle del Banco National,391.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD DISTRICT),Tertiary,Mulle dela Industria,1847.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD DISTRICT),Tertiary,Oroquieta St,2092.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD DISTRICT),Tertiary,Plaza Moraga,123.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD DISTRICT),Tertiary,Plaza Ruiz,211.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD DISTRICT),Tertiary,Plaza Sta Cruz,67.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD DISTRICT),Tertiary,Q Paredes St,308.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD DISTRICT),Tertiary,Quezon Blvd (LZ),394.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD DISTRICT),Tertiary,Quezon Blvd (LZ),391.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD DISTRICT),Tertiary,Quezon Blvd Service Rd,278.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD DISTRICT),Tertiary,Quezon Blvd Service Rd,138.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD DISTRICT),Tertiary,Quezon Blvd Service Rd,334.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD DISTRICT),Tertiary,Quezon Blvd Service Rd,134.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD DISTRICT),Tertiary,Quezon Blvd Service Rd,266.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD DISTRICT),Tertiary,Reina Regente,600.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD DISTRICT),Tertiary,Sn Fernando,480.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD DISTRICT),Tertiary,Sn Lazaro Hospital Compound Road Network,528.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD DISTRICT),Tertiary,Sn Lazaro Hospital Compound Road Network,103.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD DISTRICT),Tertiary,South Antipolo,410.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD DISTRICT),Tertiary,Sto Cristo,685.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD DISTRICT),Tertiary,T Mapua St,1411.0
+National Capital Region,Metro Manila,North Manila District Engineering Office,MANILA CITY (THIRD DISTRICT),Tertiary,V Fugoso,524.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (FIFTH & SIXTH DISTRICT),Secondary,Quirino Hi-way,13641.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (FIFTH DISTRICT),Secondary,Fairview Ave,4506.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (FIFTH DISTRICT),Secondary,Fairview Ave,699.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (FIFTH DISTRICT),Secondary,Fairview Ave,2400.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (FIFTH DISTRICT),Secondary,Fairview Ave,2088.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (FIFTH DISTRICT),Secondary,Fairview Ave,693.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (FIFTH DISTRICT),Secondary,Gen Luis St,2366.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (FIFTH DISTRICT),Tertiary,La Mesa Dam,3936.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (FIFTH DISTRICT),Tertiary,Regalado Ave (North),2760.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (FIFTH DISTRICT),Tertiary,Regalado Ave (South),1438.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (FIFTH DISTRICT),Tertiary,Susano Rd,1659.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (FIRST & SIXTH DISTRICT),Primary,Epifanio Delos Santos Ave (EDSA),4848.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (FIRST & SIXTH DISTRICT),Secondary,Mindanao Ave,4296.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (FIRST & SIXTH DISTRICT),Secondary,Mindanao Ave,4323.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (FIRST DISTRICT),Primary,Cloverleaf,203.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (FIRST DISTRICT),Primary,Cloverleaf,173.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (FIRST DISTRICT),Primary,Cloverleaf,258.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (FIRST DISTRICT),Primary,Cloverleaf,199.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (FIRST DISTRICT),Primary,Epifanio Delos Santos Ave (EDSA),4821.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (FIRST DISTRICT),Secondary,A Bonifacio Ave,3755.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (FIRST DISTRICT),Secondary,A Bonifacio Ave,3784.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (FIRST DISTRICT),Secondary,Commonwealth Ave,184.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (FIRST DISTRICT),Secondary,Congressional Ave,3289.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (FIRST DISTRICT),Secondary,Congressional Ave,3252.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (FIRST DISTRICT),Secondary,Elliptical Rd,973.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (FIRST DISTRICT),Secondary,España Blvd,80.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (FIRST DISTRICT),Secondary,G Araneta Ave,2107.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (FIRST DISTRICT),Secondary,North Ave,1786.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (FIRST DISTRICT),Secondary,North Ave,1772.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (FIRST DISTRICT),Secondary,Quezon Ave,513.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (FIRST DISTRICT),Secondary,Quezon Ave,6100.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (FIRST DISTRICT),Secondary,Quezon Ave Underpass,943.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (FIRST DISTRICT),Secondary,Quezon Ave/Araneta Underpass,560.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (FIRST DISTRICT),Secondary,Sgt Rivera (Tagaytay),1332.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (FIRST DISTRICT),Secondary,West Ave,2056.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (FIRST DISTRICT),Tertiary,Agham Rd,862.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (FIRST DISTRICT),Tertiary,Agham Rd,854.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (FIRST DISTRICT),Tertiary,Cordillera St,667.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (FIRST DISTRICT),Tertiary,Corregidor St,272.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (FIRST DISTRICT),Tertiary,Dapitan St,1616.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (FIRST DISTRICT),Tertiary,Del Monte Ave,3682.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (FIRST DISTRICT),Tertiary,Fernando Poe Jr. Ave,2871.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (FIRST DISTRICT),Tertiary,Ilocos Sur,1010.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (FIRST DISTRICT),Tertiary,Kanlaon St,2280.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (FIRST DISTRICT),Tertiary,Ma. Clara,1999.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (FIRST DISTRICT),Tertiary,Nicanor Roxas,1430.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (FIRST DISTRICT),Tertiary,Road 1,880.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (FIRST DISTRICT),Tertiary,Road 8,560.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (FIRST DISTRICT),Tertiary,Sct Alcaraz,1509.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (FIRST DISTRICT),Tertiary,Sto Domingo,2177.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (FIRST DISTRICT),Tertiary,Times St,1275.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (FIRST DISTRICT),Tertiary,Visayas Ave,2522.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (FIRST DISTRICT),Tertiary,Visayas Ave,2512.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (SECOND DISTRICT),Secondary,Commonwealth Ave,4208.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (SECOND DISTRICT),Secondary,Commonwealth Ave,3441.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (SECOND DISTRICT),Secondary,Luzon Avenue,1251.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (SECOND DISTRICT),Tertiary,Batasan Rd,2797.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (SECOND DISTRICT),Tertiary,Batasan Rd,2830.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (SECOND DISTRICT),Tertiary,Batasan-Commonwealth Tunnel,543.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (SECOND DISTRICT),Tertiary,IBP-San Mateo Rd,2149.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (SECOND DISTRICT),Tertiary,IBP-San Mateo Rd,2170.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (SECOND DISTRICT),Tertiary,Luzon Avenue,403.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (SECOND DISTRICT),Tertiary,Payatas Rd,6614.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (SIXTH DISTRICT),Primary,Cloverleaf,215.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (SIXTH DISTRICT),Primary,Cloverleaf,211.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (SIXTH DISTRICT),Primary,Cloverleaf,234.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (SIXTH DISTRICT),Primary,Cloverleaf,200.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (SIXTH DISTRICT),Secondary,Commonwealth Ave,776.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (SIXTH DISTRICT),Secondary,Congressional Ave Ext,2723.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (SIXTH DISTRICT),Secondary,Congressional Ave Ext,2718.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (SIXTH DISTRICT),Secondary,Luzon Avenue,1047.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (SIXTH DISTRICT),Secondary,MNR Div. Service Rd,537.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (SIXTH DISTRICT),Secondary,Mindanao Ave,496.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (SIXTH DISTRICT),Secondary,Mindanao Ave. Underpass,430.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (SIXTH DISTRICT),Secondary,Quirino Hi-way,416.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (SIXTH DISTRICT),Secondary,Quirino Hi-way,600.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (SIXTH DISTRICT),Tertiary,Central Avenue,2195.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (SIXTH DISTRICT),Tertiary,Luzon Avenue,252.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (SIXTH DISTRICT),Tertiary,Luzon Avenue,50.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,QUEZON CITY (SIXTH DISTRICT),Tertiary,Tandang Sora Ave,5785.0
+National Capital Region,Metro Manila,Quezon City 1st District Engineering Office,"QUEZON CITY (SIXTH DISTRICT), CALOOCAN CITY (FIRST DISTRICT)",Secondary,Manila North Div Rd,0.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Primary,Cubao Underpass,573.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Primary,EDSA/Kamuning Flyover,735.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Primary,EDSA/P. Tuazon Underpass,278.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Primary,EDSA/Quezon Ave Flyover,605.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Primary,EDSA/Santolan Flyover,394.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Primary,Epifanio Delos Santos Ave (EDSA),4885.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Secondary,Aurora Blvd,4078.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Secondary,Aurora Blvd,4076.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Secondary,Commonwealth Ave,1573.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Secondary,Commonwealth Ave,1996.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Secondary,East Ave,1768.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Secondary,East Ave,1787.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Secondary,Elliptical Rd,974.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Secondary,España Blvd,80.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Secondary,G Araneta Ave,2715.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Secondary,G Araneta Ave,2698.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Secondary,Gilmore Ave,264.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Secondary,Ortigas-Granada Rd,597.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Secondary,Quezon Ave,1000.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Secondary,Quezon Ave,6096.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Secondary,Quezon Ave,138.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Secondary,Quezon Ave Underpass,943.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Secondary,Quezon Ave/Araneta Underpass,560.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Secondary,South Ave (Timog Ave),96.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Secondary,South Ave (Timog Ave),2040.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Secondary,University Ave,1045.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Secondary,University Ave,1178.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Tertiary,Arayat St,491.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Tertiary,BIR Rd,884.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Tertiary,Balete Drive,1164.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Tertiary,Bayani St,632.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Tertiary,Bonny Serrano Ave,539.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Tertiary,C Benitez St,1481.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Tertiary,CP Garcia Ave,2437.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Tertiary,Camp Came Rd Network,131.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Tertiary,Camp Came Rd Network,127.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Tertiary,Camp Came Rd Network,205.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Tertiary,Camp Came Rd Network,325.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Tertiary,Camp Came Rd Network,450.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Tertiary,Camp Came Rd Network,547.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Tertiary,Camp Came Rd Network,385.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Tertiary,Camp Came Rd Network,526.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Tertiary,Camp Came Rd Network,393.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Tertiary,Cordillera St,938.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Tertiary,E Rodriguez Sr,5305.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Tertiary,G Araneta Ave,392.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Tertiary,G Araneta Ave,402.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Tertiary,Gilmore Ave,1212.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Tertiary,Hemady St,1448.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Tertiary,Internal Rd,994.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Tertiary,Internal Rd,979.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Tertiary,Kalayaan Ave,1841.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Tertiary,Kalayaan Ave,1843.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Tertiary,Kamuning Rd,1362.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Tertiary,MVO Rd Network,75.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Tertiary,MVO Rd Network,31.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Tertiary,MVO Rd Network,80.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Tertiary,MVO Rd Network,450.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Tertiary,MVO Rd Network,109.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Tertiary,Maginhawa St,2222.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Tertiary,Mother Ignacia St,150.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Tertiary,Mother Ignacia St,2552.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Tertiary,N Domingo St,1910.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Tertiary,N Ramirez St (Pulog St),821.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Tertiary,NIA North Rd,245.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Tertiary,NIA South Rd,245.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Tertiary,"Osmeña Ave
+",1100.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Tertiary,Roxas Ave,1140.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Tertiary,Santol,848.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Tertiary,Scout Ybardaloza,823.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Tertiary,Sct Lozano,1285.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Tertiary,Sgt Esguerra (Bohol Ave),1226.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Tertiary,T Gener St,415.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Tertiary,Tomas Morato,100.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Tertiary,Tomas Morato,1684.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Tertiary,V Luna Rd,1698.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Tertiary,V. Luna Rd Network,140.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Tertiary,V. Luna Rd Network,150.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Tertiary,V. Luna Rd Network,148.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Tertiary,V. Luna Rd Network,220.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Tertiary,V. Luna Rd Network,100.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Tertiary,V. Luna Rd Network,210.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Tertiary,V. Luna Rd Network,330.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Tertiary,V. Luna Rd Network,894.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Tertiary,V. Luna Rd Network,153.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (FOURTH DISTRICT),Tertiary,V. Luna Rd Network,154.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (THIRD DISTRICT),Primary,Aurora Blvd,3170.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (THIRD DISTRICT),Primary,Aurora Blvd,3150.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (THIRD DISTRICT),Primary,C-5 (Boni Serrano Flyover),515.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (THIRD DISTRICT),Primary,C-5 (Boni Serrano Flyover),534.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (THIRD DISTRICT),Primary,C-5 (Katipunan/Boni Serrano Tunnel),574.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (THIRD DISTRICT),Primary,C-5 (Katipunan/Boni Serrano Tunnel),548.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (THIRD DISTRICT),Primary,C-5 Road,504.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (THIRD DISTRICT),Primary,C-5 Road,3819.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (THIRD DISTRICT),Primary,C-5 Road,3807.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (THIRD DISTRICT),Primary,Cubao Underpass,573.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (THIRD DISTRICT),Primary,E Rodriguez Jr  Ave,2850.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (THIRD DISTRICT),Primary,EDSA/Kamuning Flyover,720.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (THIRD DISTRICT),Primary,EDSA/P. Tuazon Underpass,278.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (THIRD DISTRICT),Primary,EDSA/Santolan Flyover,394.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (THIRD DISTRICT),Primary,Epifanio Delos Santos Ave (EDSA),5505.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (THIRD DISTRICT),Secondary,Bonny Serrano Ave,1753.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (THIRD DISTRICT),Secondary,C-5 Road,1776.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (THIRD DISTRICT),Secondary,C-5 Road,1803.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (THIRD DISTRICT),Secondary,Commonwealth Ave,1091.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (THIRD DISTRICT),Secondary,Commonwealth Ave,2499.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (THIRD DISTRICT),Secondary,Tandang Sora Ave,707.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (THIRD DISTRICT),Tertiary,15th Ave,1918.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (THIRD DISTRICT),Tertiary,20th Ave,1562.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (THIRD DISTRICT),Tertiary,C-5 (Katipunan/Aurora Flyover),643.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (THIRD DISTRICT),Tertiary,C-5 (Katipunan/Aurora Flyover),633.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (THIRD DISTRICT),Tertiary,Camp Aguinaldo Rd Network,410.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (THIRD DISTRICT),Tertiary,Camp Aguinaldo Rd Network,2700.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (THIRD DISTRICT),Tertiary,Camp Aguinaldo Rd Network,206.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (THIRD DISTRICT),Tertiary,Camp Aguinaldo Rd Network,86.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (THIRD DISTRICT),Tertiary,Camp Aguinaldo Rd Network,80.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (THIRD DISTRICT),Tertiary,Camp Aguinaldo Rd Network,808.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (THIRD DISTRICT),Tertiary,Camp Aguinaldo Rd Network,120.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (THIRD DISTRICT),Tertiary,Camp Aguinaldo Rd Network,568.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (THIRD DISTRICT),Tertiary,Camp Aguinaldo Rd Network,297.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (THIRD DISTRICT),Tertiary,Camp Aguinaldo Rd Network,194.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (THIRD DISTRICT),Tertiary,Camp Aguinaldo Rd Network,272.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (THIRD DISTRICT),Tertiary,Camp Aguinaldo Rd Network,265.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (THIRD DISTRICT),Tertiary,Camp Aguinaldo Rd Network,640.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (THIRD DISTRICT),Tertiary,Camp Aguinaldo Rd Network,90.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (THIRD DISTRICT),Tertiary,Camp Aguinaldo Rd Network,242.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (THIRD DISTRICT),Tertiary,Camp Aguinaldo Rd Network,273.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (THIRD DISTRICT),Tertiary,Camp Aguinaldo Rd Network,158.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (THIRD DISTRICT),Tertiary,Camp Aguinaldo Rd Network,1020.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (THIRD DISTRICT),Tertiary,Camp Aguinaldo Rd Network,1283.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (THIRD DISTRICT),Tertiary,Camp Aguinaldo Rd Network,354.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (THIRD DISTRICT),Tertiary,Camp Aguinaldo Rd Network,453.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (THIRD DISTRICT),Tertiary,Camp Aguinaldo Rd Network,446.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (THIRD DISTRICT),Tertiary,Camp Aguinaldo Rd Network,643.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (THIRD DISTRICT),Tertiary,Camp Aguinaldo Rd Network,804.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (THIRD DISTRICT),Tertiary,Ermin Garcia,1917.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (THIRD DISTRICT),Tertiary,JP Rizal St,724.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (THIRD DISTRICT),Tertiary,Kamias Rd,1705.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (THIRD DISTRICT),Tertiary,Liberty Ave,837.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (THIRD DISTRICT),Tertiary,Luzon Avenue,77.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (THIRD DISTRICT),Tertiary,Luzon Avenue,162.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (THIRD DISTRICT),Tertiary,Luzon Avenue,137.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (THIRD DISTRICT),Tertiary,Main Ave,855.0
+National Capital Region,Metro Manila,Quezon City 2nd District Engineering Office,QUEZON CITY (THIRD DISTRICT),Tertiary,P Tuazon Blvd,1647.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH & SIXTH DISTRICT),Secondary,Pres Quirino Ave,3868.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH & SIXTH DISTRICT),Secondary,Pres Quirino Ave,3927.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH & SIXTH DISTRICT),Tertiary,Paz Mendoza Guazon (Otis St),1190.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Secondary,Ayala Blvd,301.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Secondary,Ayala Blvd,865.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Secondary,Bonifacio Drive,1460.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Secondary,Bonifacio Drive,1010.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Secondary,Bonifacio Drive,488.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Secondary,Finance Rd,260.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Secondary,Finance Rd,269.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Secondary,Liwasan Bonifacio East Over Pass,316.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Secondary,P Burgos Street,130.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Secondary,P Burgos Street,202.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Secondary,P Burgos Street,134.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Secondary,P Burgos Street,1415.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Secondary,P Burgos Street,1670.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Secondary,Plaza Dilao,200.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Secondary,Pres Quirino Avenue (Canonigo),763.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Secondary,Pres Quirino Avenue (Canonigo),748.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Secondary,Quezon Blvd Extn,464.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Secondary,Quezon Blvd Extn,503.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Secondary,Romualdez St,974.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Secondary,Roxas Blvd,2847.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Secondary,Roxas Blvd,193.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Secondary,Roxas Blvd,210.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Secondary,Roxas Blvd,2852.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Secondary,Sn Marcelino St,933.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Secondary,Sn Marcelino St,1093.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Secondary,South Super H-way,1466.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Secondary,South Super H-way,1469.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Secondary,TM Kalaw St,826.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Secondary,TM Kalaw St,857.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Secondary,Taft Ave,3222.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Secondary,Taft Ave,207.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Secondary,Taft Ave,3521.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Secondary,United Nations Ave,1842.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,11th St,351.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,12th St,253.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,13th St,480.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,13th St,90.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,16th St,280.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,19th St,145.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,20th St,222.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,25th St,414.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,2nd Street,553.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,8th Street,78.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,A Francisco St,1025.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,A Francisco St,11.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,A Linao St,748.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,A Mabini St,2548.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,A Soriano (Aduana),528.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Agrifina Circle Parking Lot,108.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Agrifina Circle Parking Lot,127.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Agrifina Circle Parking Lot,130.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Agrifina Circle Parking Lot,455.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Anda St,750.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Arellano Ave,1209.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Arroceros St,850.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Atlanta St,435.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Bonifacio Drive Interchange,407.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Bonifacio Drive Interchange,463.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Bureau of Plant Industry,636.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Bureau of Post Rd,159.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Cabildo St,100.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Cabildo St,1039.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Chicago St,180.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Chicago St,856.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Concepcion St,540.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Cortabitarte St,166.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Dr J Quintos St,230.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Estrada St,890.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,FB Harrison,103.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,G Del Pilar,869.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Gen Luna St (Manila),1369.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Gen Luna St (Manila),1072.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Government Center Rd,115.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Josefa Llanes Escoda,600.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Katigbak Drive,245.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Legislative Parking Lot,242.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Leon Guinto St,2131.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Liwasan Bonifacio West Over Pass,499.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,M Adriatico,2174.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,MH Del Pilar,1895.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,MWSS Rd,73.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Magallanes Drive,39.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Magallanes Drive,313.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Maria Orosa St,415.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Maria Orosa St,389.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Maria Orosa St,130.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Muelle Sn Francisco,988.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Muelle de Magallanes,940.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Muelle de Tacoma,230.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Muelle del Rio St,235.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Muralla St,1355.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,New Luneta,381.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Onyx St,1020.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Onyx St,1010.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,P Burgos Street,286.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,P Ocampo Sr,2073.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,PGH Road,275.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,PGH Road,253.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,PGH Road,220.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Paco Park Rd,466.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Padre Faura,1074.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Palacio St,139.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Pasig Line,914.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Pedro Gil (Herran),3649.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Perez St,568.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Plaza Espana,194.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Plaza Lawton Rd,223.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Railroad St,885.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Remedios St,850.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Remedios St,361.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Remedios St,221.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Rizal Parking Lot,398.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Rizal Parking Lot,349.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Rizal Parking Lot,108.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Rizal Parking Lot,110.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Rizal Parking Lot,94.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Rizal Parking Lot,80.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Romualdez St,165.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Roxas Blvd East Service Rd,2453.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Singalong St,1645.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Sn Andres St,2122.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Sn Gregorio St,453.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Sn Marcelino St,199.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Sn Marcelino St,160.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,South Blvd,248.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Sta Lucia,698.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Victoria St,690.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Zamora St,635.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Zobel Roxas St,908.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Zobel Roxas St,1108.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (FIFTH DISTRICT),Tertiary,Zobel Roxas St,906.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (SIXTH DISTRICT),Secondary,Nagtahan Link Rd 1,2160.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (SIXTH DISTRICT),Secondary,Nagtahan Link Rd 2,2135.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (SIXTH DISTRICT),Tertiary,A Bautista,870.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (SIXTH DISTRICT),Tertiary,Beata St,806.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (SIXTH DISTRICT),Tertiary,Certeza St,278.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (SIXTH DISTRICT),Tertiary,F Calderon St (LZ),111.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (SIXTH DISTRICT),Tertiary,F Calderon St (LZ),262.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (SIXTH DISTRICT),Tertiary,Havana St,284.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (SIXTH DISTRICT),Tertiary,J Posadas St,345.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (SIXTH DISTRICT),Tertiary,Jesus St,497.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (SIXTH DISTRICT),Tertiary,Jesus St,390.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (SIXTH DISTRICT),Tertiary,Jose Syquia St,670.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (SIXTH DISTRICT),Tertiary,Labores St,553.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (SIXTH DISTRICT),Tertiary,Lamayan St,775.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (SIXTH DISTRICT),Tertiary,Laura St,556.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (SIXTH DISTRICT),Tertiary,M Roxas St,532.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (SIXTH DISTRICT),Tertiary,Malacanang Park Rd,1062.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (SIXTH DISTRICT),Tertiary,Malacanang Park Rd,146.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (SIXTH DISTRICT),Tertiary,Manuel L Carreon St,784.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (SIXTH DISTRICT),Tertiary,Mendiola Ext,285.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (SIXTH DISTRICT),Tertiary,New Panaderos St,1412.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (SIXTH DISTRICT),Tertiary,Old Panaderos St,780.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (SIXTH DISTRICT),Tertiary,Palumpong St,148.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (SIXTH DISTRICT),Tertiary,Plaza Calderon,39.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (SIXTH DISTRICT),Tertiary,R  Del Pan St,585.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (SIXTH DISTRICT),Tertiary,Tejeron St,780.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,MANILA CITY (SIXTH DISTRICT),Tertiary,Zamora St,203.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Primary,Epifanio Delos Santos Ave (EDSA),2083.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Primary,Epifanio Delos Santos Ave (EDSA),2220.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Primary,Roxas Blvd,385.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Primary,Roxas Blvd,389.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Secondary,Airport Rd,106.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Secondary,Andrew Ave,2815.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Secondary,Andrew Ave,2717.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Secondary,Aurora Blvd,1105.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Secondary,Aurora Blvd,1108.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Secondary,Balagbag Rd,256.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Secondary,Domestic Rd,1171.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Secondary,EDSA-Tramo Flyover,759.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Secondary,Gil Puyat Ave,1193.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Secondary,NAIA Flyover Br,385.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Secondary,NAIA Rd (MIA Road),1460.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Secondary,NAIA Rd (MIA Road),1470.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Secondary,Ninoy Aquino  Ave,708.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Secondary,Ninoy Aquino  Ave,64.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Secondary,Ninoy Aquino  Ave,685.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Secondary,Roxas Blvd,2440.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Secondary,Roxas Blvd,2415.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Secondary,Roxas Blvd,18.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Secondary,Roxas Blvd-EDSA  Flyover,425.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Secondary,Roxas Blvd-EDSA  Flyover,423.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Secondary,Roxas Blvd-Gil Puyat Flyover,409.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Secondary,Roxas Blvd-Gil Puyat Flyover,411.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Secondary,Sales St.,943.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Secondary,Sales St.,948.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Secondary,Taft Ave,2644.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Secondary,Taft Ave,2603.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Tertiary,Antonio Arnaiz Ave,1807.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Tertiary,Electrical Rd,67.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Tertiary,Electrical Rd,131.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Tertiary,Electrical Rd,1174.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Tertiary,FAT Access Rd,554.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Tertiary,FB Harrison,2768.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Tertiary,J. W. Diokno Blvd.,796.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Tertiary,J. W. Diokno Blvd.,795.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Tertiary,Manila Film Center Access Rd,334.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Tertiary,Manila Film Center Access Rd,283.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Tertiary,Manila Film Ctr Main Rd,624.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Tertiary,Nichols Field Rd,357.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Tertiary,PICC Access Rd,131.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Tertiary,PICC Fat Main Rd,510.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Tertiary,PICC Fat Main Rd,80.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Tertiary,PICC Fat Main Rd,305.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Tertiary,PICC Fat Main Rd,440.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Tertiary,PICC Fat Perimeter Rd,815.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Tertiary,PICC Fat Perimeter Rd,335.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Tertiary,PICC Fat Perimeter Rd,1601.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Tertiary,Philtrade Rd 1,132.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Tertiary,Philtrade Rd 1,508.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Tertiary,Philtrade Rd 1,60.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Tertiary,Pres. Diosdado Macapagal Blvd.,745.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Tertiary,Pres. Diosdado Macapagal Blvd.,748.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Tertiary,Roxas Blvd East Service Rd,2551.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Tertiary,Roxas Blvd East Service Rd,380.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Tertiary,South Super H-way West Service Rd,2770.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Tertiary,Spine Rd,1040.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Tertiary,Spine Rd,210.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Tertiary,Spine Rd,735.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Tertiary,Taft Ave,520.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Tertiary,Taft Ave,554.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Tertiary,Tramo Rd,774.0
+National Capital Region,Metro Manila,South Manila District Engineering Office,PASAY CITY (LONE DISTRICT),Tertiary,Tramo Rd,1905.0
