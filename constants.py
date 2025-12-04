@@ -25,4 +25,5 @@ REGIONS = [
 ROAD_CLASS_TYPES = ["Expressway", "National Roads"]
 
 USE_WHERE = False
+UNIQUE_ROADS_ONLY = True
 

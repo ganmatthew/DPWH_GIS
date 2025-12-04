@@ -173,13 +173,16 @@ def main():
         roads = process_features(features, is_expressway)
 
         # Keep only unique names
-        seen = set()
-        unique_roads = []
-        for r in roads:
-            if r not in seen:
-                seen.add(r)
-                unique_roads.append(r)
-        print(f"\nFound {len(roads)} segments ({len(unique_roads)} unique roads)")
+        if constants.UNIQUE_ROADS_ONLY:
+            seen = set()
+            unique_roads = []
+            for r in roads:
+                if r not in seen:
+                    seen.add(r)
+                    unique_roads.append(r)
+            print(f"\nFound {len(roads)} segments ({len(unique_roads)} unique roads)")
+        else:
+            print(f"\nFound {len(roads)} segments")
 
         if is_expressway:
             columns = ["region", "road_class", "xpres_way", "xpres_name", "road_length"]
@@ -188,7 +191,7 @@ def main():
             columns = ["region", "province", "deo", "cong_district", "road_class", "road_name", "road_length"]
             sort_cols = ["region", "province", "deo", "cong_district","road_class", "road_name"]
 
-        df = pd.DataFrame(unique_roads, columns=columns)
+        df = pd.DataFrame(unique_roads if constants.UNIQUE_ROADS_ONLY else roads, columns=columns)
         df.sort_values(by=sort_cols, inplace=True)
 
         generate_output_csv(df)
